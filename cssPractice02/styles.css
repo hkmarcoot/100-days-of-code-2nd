@@ -1,0 +1,48 @@
+/* 
+    > Time for CSS practice 2, just follow these specs
+    > First, look at the HTML tab to see what elements we are working with, then...
+
+    > Create a selector for h1, then...
+        ☑️ center the h1 text
+*/
+h1 {
+  text-align: center;
+}
+/*
+      > Create a selector for the "box" class and add the following CSS
+          ☑️ center the text inside the boxes 
+          ☑️ add a border, 2px solid black
+          ☑️ top and bottom padding 20px, left and right 10px
+          ☑️ 20px margin on all 4 sides
+  */
+.box {
+  text-align: center;
+  border: 2px solid black;
+  padding: 20px 10px;
+  margin: 20px;
+}
+/*
+      > Now, create selectors for each individual box class (ex "box-1")
+          ☑️ make box 1 a nice shade of blue
+          ☑️ make box 2 a nice shade of red
+          ☑️ make box 3 a nice shade of green
+  */
+.box-1 {
+  background-color: rgba(0, 0, 255, 0.4);
+}
+.box-2 {
+  background-color: rgba(255, 0, 0, 0.4);
+}
+.box-3 {
+  background-color: rgba(0, 255, 0, 0.4);
+}
+/*
+      > Add some margin on the "container" class
+          ☑️ Try 10vw!
+  */
+.container {
+  margin: 10vw;
+}
+/*
+      > Finally, scroll down to check the solution image below, to see if yours matches
+  */

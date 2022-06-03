@@ -1,0 +1,42 @@
+<!-- 
+    > SPEC: HTML Practice II
+    > You'll create a registration form that links to a confirmation page
+    
+    > First, create a form element which will contain inputs
+    > inside the form, add the following inputs, with each on its own line
+    > 1. A text input 
+    > 2. A password input
+    > 3. A select input with an option for each gender
+    > 4. A submit input (button)
+
+    > Next add the following labels to the inputs, linking them with "for" attributes
+    > 1. Username
+    > 2. Password
+    > 3. Gender
+
+    > Almost done!
+
+    > Now, link the submit action to go to "https://www.success.com/"
+-->
+
+<!-- Add your HTML here -->
+<form action="https://www.success.com">
+  <label for="uname">Username</label>
+  <input type="text" id="uname" name="uname" />
+  <br />
+  <label for="pw">Password</label>
+  <input type="password" id="pw" name="pw" />
+  <br />
+  <div>
+    <label for="gen">Gender</label>
+    <div>
+      <label for="male">Male</label>
+      <input name="gen" type="radio" id="male" value="male" />
+    </div>
+    <div>
+      <label for="female">Female</label>
+      <input name="gen" type="radio" id="female" value="female" />
+    </div>
+  </div>
+  <input type="submit" />
+</form>
