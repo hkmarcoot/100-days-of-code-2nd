@@ -1,0 +1,122 @@
+body {
+  margin: 20px 40px;
+  width: 1300px;
+  font-family: Hellix;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 48px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.top-bar {
+  margin: 0 100px;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.top-bar > ul {
+  display: flex;
+  align-items: center;
+}
+
+.top-bar > ul > li {
+  list-style-type: none;
+  margin-left: 50px;
+}
+
+.cta {
+  background: rgba(255, 106, 0, 0.15);
+  padding: 15px 30px;
+  border-radius: 5px;
+  color: rgba(255, 106, 0, 1);
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.hero {
+  background-color: lightgrey;
+  height: 600px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  padding: 0 100px;
+  justify-content: space-around;
+  color: white;
+}
+
+.hero p {
+  margin-bottom: 60px;
+}
+
+.purple-bg-img {
+  background-image: url("https://assets.codepen.io/6060109/purple-box.png");
+  background-size: cover;
+}
+
+.left-side {
+  width: 40%;
+}
+
+.right-side {
+  position: relative;
+  width: 50%;
+  height: 100%;
+}
+
+.right-side > img {
+  height: 90%;
+  display: block;
+  position: absolute;
+  bottom: 0;
+}
+
+.company-logos {
+  margin: 30px 100px;
+  height: 150px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-box {
+  background-color: lightgrey;
+  width: 15%;
+  height: 100%;
+  border-radius: 5px;
+}
+
+.btn {
+  border: none;
+  width: 200px;
+  height: 60px;
+  font-size: 18px;
+  font-weight: 600px;
+  border-radius: 5px;
+}
+
+.btn-primary {
+  background: #ff6a00;
+  color: white;
+}
+
+.btn-secondary {
+  background: white;
+  color: rgba(56, 47, 184, 1);
+  margin-left: 10px;
+}
+
+.logo-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
