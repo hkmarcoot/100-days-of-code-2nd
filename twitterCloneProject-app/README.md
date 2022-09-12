@@ -16,6 +16,6 @@ https://drive.google.com/file/d/1kQ5hs8DB7CCUOX87qFPaxV3AC2fTbEPu/view?usp=shari
 
 https://www.figma.com/file/KaZX9z3aqQDHwPSWPK4bSo/Twitter?node-id=0%3A1
 
-### The API
+### The Endpoint
 
 https://github.com/hkmarcoot/100-days-of-code-2nd/tree/main/twitterCloneProject-api
