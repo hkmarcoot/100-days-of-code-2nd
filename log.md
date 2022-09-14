@@ -655,3 +655,18 @@ Show tweet images, videos, gifs, user info. Use momentjs to show created date of
 Upload the Twitter clone project to Heroku and Netlify. Face CJS modules problem with axios and the commonjs problem, but manage to fix it.
 https://t.co/Q8IcnUfvbB
 11:53 PM · Sep 11, 2022·Twitter Web App
+
+### Day 133 | 2nd #100DaysOfCode
+
+Update the portfolio website with my latest Twitter clone project. Start using Bootstrap again to make a landing page, as started on day 90.
+11:34 PM · Sep 12, 2022·Twitter Web App
+
+### Day 134 | 2nd #100DaysOfCode
+
+Make Navbar, Hero section (jumbotron), Info section and Event section with Bootstrap. Use col-md-12, col-md-8, col-md-4, offset-md-2, text-center a lot.
+11:55 PM · Sep 13, 2022·Twitter Web App
+
+### Day 135 | 2nd #100DaysOfCode
+
+Compare the Hero Section I made with purely CSS and the one I am making with Bootstrap. Attend recruitment clinic from the SOC bootcamp. Upload what the team did in hackathons to my 100DaysOfCode profile.
+11:46 PM · Sep 14, 2022·Twitter Web App
