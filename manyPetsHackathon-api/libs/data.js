@@ -1,0 +1,51 @@
+export const users = [
+  { id: 1, email: "hkmarcoot@gmail.com", price: 50 },
+  { id: 2, email: "ukmarcoot@gmail.com", price: 60 },
+];
+
+export const information = [
+  {
+    id: 1,
+    email: "hkmarcoot@gmail.com",
+    species: "dog",
+    gender: "male",
+    petsname: "Poopy",
+    breedType: "Mixed",
+    breed: "Polish Hunting Dog",
+    age: 18,
+    address: "M44 6EF",
+  },
+  {
+    id: 2,
+    email: "hkmarcoot@gmail.com",
+    species: "cat",
+    gender: "female",
+    petsname: "pepper",
+    breedType: "Cross",
+    breed: "Forest Cat",
+    age: 17,
+    address: "M44 6EF",
+  },
+  {
+    id: 3,
+    email: "ukmarcoot@gmail.com",
+    species: "cat",
+    gender: "male",
+    petsname: "fury",
+    breedType: "Mixed",
+    breed: "None",
+    age: 24,
+    address: "M2 4WU",
+  },
+  {
+    id: 4,
+    email: "ukmarcoot@gmail.com",
+    species: "cat",
+    gender: "female",
+    petsname: "sleepy",
+    breedType: "Mixed",
+    breed: "None",
+    age: 12,
+    address: "M2 3JL",
+  },
+];
