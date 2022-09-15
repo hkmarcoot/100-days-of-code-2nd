@@ -670,3 +670,8 @@ Make Navbar, Hero section (jumbotron), Info section and Event section with Boots
 
 Compare the Hero Section I made with purely CSS and the one I am making with Bootstrap. Attend recruitment clinic from the SOC bootcamp. Upload what the team did in hackathons to my 100DaysOfCode profile.
 11:46 PM · Sep 14, 2022·Twitter Web App
+
+### Day 136 | 2nd #100DaysOfCode
+
+Working on the interview questions preparation. Going over my application and CV. Summarising what I learned in the associate node.js developer course. Preparing the exam with mock MC questions in Udemy.
+11:48 PM · Sep 15, 2022·Twitter Web App
