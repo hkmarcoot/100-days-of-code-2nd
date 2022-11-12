@@ -17,23 +17,22 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div role="container" class="all-container">
+    <div class="all-container">
       <!-- <div class="scaling-svg-container"></div> -->
-      <div role="left-side-content" class="left-side-content">
-        <img role="logo" id="logo" src="./images/logo.svg" />
+      <div class="left-side-content">
+        <img id="logo" src="./images/logo.svg" />
         <img
-          role="mobile-image"
           class="hero-mobile"
           alt="hero-mobile"
           src="./images/hero-mobile.jpg"
         />
-        <header role="banner" class="h1-container">
+        <header class="h1-container">
           <h1>
             <span class="h1-first">We're</span
             ><span class="h1-second"> coming soon</span>
           </h1>
         </header>
-        <main role="main" class="p-container">
+        <main class="p-container">
           <p>
             Hello fellow shoppers! We're currently building our new fashion
             store. Add your email below to stay up-to-date with announcements
@@ -41,7 +40,7 @@
           </p>
         </main>
 
-        <form role="email-form" autocomplete="off">
+        <form autocomplete="off">
           <div>
             <input
               type="email"
@@ -50,19 +49,17 @@
               placeholder="Email Address"
               required
             />
-            <label role="label" for="email"
-              ><img role="icon-error" src="./images/icon-error.svg"
-            /></label>
+            <label for="email"><img src="./images/icon-error.svg" /></label>
 
-            <button role="submit-button" type="submit">
-              <img role="icon-arrow" src="./images/icon-arrow.svg" alt="" />
+            <button type="submit">
+              <img src="./images/icon-arrow.svg" alt="" />
             </button>
           </div>
-          <p role="error" class="error">Please provide a valid email</p>
+          <p class="error">Please provide a valid email</p>
         </form>
 
-        <footer role="contentinfo">
-          <p role="attribution" class="attribution">
+        <footer>
+          <p class="attribution">
             Challenge by
             <a
               href="https://www.frontendmentor.io?ref=challenge"
@@ -72,12 +69,7 @@
           </p>
         </footer>
       </div>
-      <img
-        role="desktop-image"
-        class="hero-desktop-image"
-        src="./images/hero-desktop.jpg"
-        alt=""
-      />
+      <img class="hero-desktop-image" src="./images/hero-desktop.jpg" alt="" />
     </div>
     <script src="./index.js"></script>
   </body>
