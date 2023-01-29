@@ -19,3 +19,7 @@ https://www.figma.com/file/KaZX9z3aqQDHwPSWPK4bSo/Twitter?node-id=0%3A1
 ### The Endpoint
 
 https://github.com/hkmarcoot/100-days-of-code-2nd/tree/main/twitterCloneProject-api
+
+### Screenshot
+
+![](./screenshot/twitter-desktop.png)
