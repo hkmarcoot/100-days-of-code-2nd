@@ -675,3 +675,795 @@ Compare the Hero Section I made with purely CSS and the one I am making with Boo
 
 Working on the interview questions preparation. Going over my application and CV. Summarising what I learned in the associate node.js developer course. Preparing the exam with mock MC questions in Udemy.
 11:48 PM · Sep 15, 2022·Twitter Web App
+
+### Day 137 | 2nd #100DaysOfCode
+
+Working on the video interview preparation. Preparing the exam with mock MC questions in Udemy.
+11:45 PM · Sep 16, 2022
+
+### Day 138 | 2nd #100DaysOfCode
+
+Working on the video interview preparation.
+11:49 PM · Sep 17, 2022
+
+### Day 139 | 2nd #100DaysOfCode
+
+Revise the questions in the exam study guide.
+11:42 PM · Sep 18, 2022
+
+### Day 140 | 2nd #100DaysOfCode
+
+Take a break today.
+5:19 PM · Sep 19, 2022
+
+### Day 141 | 2nd #100DaysOfCode
+
+Attend Azure Virtual Training Day 1.
+8:49 PM · Sep 21, 2022
+
+### Day 142 | 2nd #100DaysOfCode
+
+Attend Azure Virtual Training Day 2, and the recruitment clinic from School Of Code.
+8:50 PM · Sep 21, 2022
+
+### Day 143 | 2nd #100DaysOfCode
+
+Prepare for the phone interview.
+10:00 PM · Sep 22, 2022
+
+### Day 144 | 2nd #100DaysOfCode
+
+Prepare for the phone interview.
+11:49 PM · Sep 23, 2022
+
+### Day 145 | 2nd #100DaysOfCode
+
+Take a break today.
+11:27 PM · Sep 24, 2022
+
+### Day 146 | 2nd #100DaysOfCode
+
+Prepare for the phone interview.
+12:15 AM · Sep 26, 2022
+
+### Day 147 | 2nd #100DaysOfCode
+
+Prepare for the phone interview. Continue with the Bootstrap landing page project.
+11:16 PM · Sep 26, 2022
+
+### Day 148 | 2nd #100DaysOfCode
+
+Create email submit form and footer in the project.
+11:47 PM · Sep 27, 2022
+
+### Day 149 | 2nd #100DaysOfCode
+
+Complete the landing page project in party theme with Bootstrap and jQuery.
+12:28 AM · Sep 29, 2022
+
+### Day 150 | 2nd #100DaysOfCode
+
+Complete Tesla landing page project using Bootstrap, fullPage.js and GSAP.
+9:03 PM · Sep 29, 2022
+
+### Day 151 | 2nd #100DaysOfCode
+
+First day learning Vuejs, learn directive includes v-for, v-html, v-if. Learn v-bind, v-model which is 2 way binding. And methods, computed, component, props. Finally learning the Vuejs LifeCycle. Did a filter mini project during the learning.
+11:14 PM · Sep 30, 2022
+
+### Day 152 | 2nd #100DaysOfCode
+
+Prepare for the phone interview.
+11:24 PM · Oct 1, 2022
+
+### Day 153 | 2nd #100DaysOfCode
+
+Prepare for the phone interview.
+11:44 PM · Oct 2, 2022
+
+### Day 154 | 2nd #100DaysOfCode
+
+Take a break today.
+8:36 PM · Oct 3, 2022
+
+### Day 155 | 2nd #100DaysOfCode
+
+First day to learn about NuxtJS.
+8:28 PM · Oct 5, 2022
+
+### Day 156 | 2nd #100DaysOfCode
+
+Learn about NuxtJS basic, including installation of Vue dev tools, adding vetur in visual studio code. Use npx create-nuxt-app to create a project.
+11:55 PM · Oct 6, 2022
+
+### Day 157 | 2nd #100DaysOfCode
+
+Building a renting properties landing page project using NuxtJS, which can progress to ecom project by adding stripe later on.
+11:57 PM · Oct 7, 2022
+
+### Day 158 | 2nd #100DaysOfCode
+
+Integrate HTML landing page into NuxtJS. Make header and footer to be components. Link CSS and JavaScript file to NuxtJS using its format. Create my first NuxtJS project.
+3:26 AM · Oct 8, 2022
+
+### Day 159 | 2nd #100DaysOfCode
+
+Remove external script including jQuery and custom JavaScript, use bootstrap-vue instead. Add page transition and title tag.
+11:56 PM · Oct 8, 2022
+
+### Day 160 | 2nd #100DaysOfCode
+
+Take a break today.
+6:51 PM · Oct 10, 2022
+
+### Day 161 | 2nd #100DaysOfCode
+
+Learn to setup Strapi on Linode. Revise what is API, CRUD and Restful API. Try the 3 APIs: count, find, findone which are setup automatically by Strapi on Postman.
+5:17 PM · Oct 11, 2022
+
+### Day 162 | 2nd #100DaysOfCode
+
+Learn to add pagination, filtering, low to high ordering and show more button function to the landing page project. Learn Vuex with topics such as states, getters, mutations, actions, and mapMutations.
+1:38 AM · Oct 12, 2022
+
+### Day 163 | 2nd #100DaysOfCode
+
+Learn to integrate a login/logout function in website with NuxtJS. User can signup and confirm with an email. A similar forget password function is added. Things become easier with using Strapi as CMS.
+6:55 AM · Oct 13, 2022
+
+### Day 164 | 2nd #100DaysOfCode
+
+Finish setting up Strapi in local instead of on Linode. Learn to install theme and make a store on WordPress with WooCommerce plugin.
+11:46 PM · Oct 13, 2022
+
+### Day 165 | 2nd #100DaysOfCode
+
+Take a break today.
+11:08 PM · Oct 14, 2022
+
+### Day 168 | 2nd #100DaysOfCode
+
+Connect the frontend that made with VueJS to local Strapi. Successfully make a blogs page that connect individual blog post with slug, create a custom count API by modifying the controller and routes in backend.
+2:58 AM · Oct 18, 2022
+
+### Day 169 | 2nd #100DaysOfCode
+
+Make the filter function works for the property page. The property page is similar with the blog page so it takes less time to connect it with the local Strapi API.
+6:00 PM · Oct 19, 2022
+
+### Day 170 | 2nd #100DaysOfCode
+
+Help friend by doing practice challenges from the Northcoders application website together in a library near my home. After practicing we chill in a cafe.
+5:59 PM · Oct 20, 2022
+
+### Day 171 | 2nd #100DaysOfCode
+
+Go through the login & logout function in the project again since this is the place where JWT is stored in state and cookies. Getters, mutations and nuxtServerInit are involved so I am paying special attention to them.
+8:41 PM · Oct 21, 2022
+
+### Day 172 | 2nd #100DaysOfCode
+
+Try to set sending register confirmation email but there is error with SMTP code. Not sure if it is about email server or just because of the Strapi should not be in local, or both. Will come back later. Also fixed missing data payload in request body
+8:14 PM · Oct 22, 2022
+
+### Day 173 | 2nd #100DaysOfCode
+
+Add middleware to check if the user is authenticated. User can add new properties, and is able to update/ delete properties. Tried to make the filtering on username work but it doesn't, so it still take time to search user's own properties.
+12:00 AM · Oct 23, 2022
+
+### Day 174 | 2nd #100DaysOfCode
+
+Take a break today.
+5:05 PM · Oct 24, 2022
+
+### Day 175 | 2nd #100DaysOfCode
+
+Try to add creator is owner policy to the strapi project, there are errors about handler I cannot fix yet, will come back later. Add stripe and simple cart system. The stripe account can receive post request and strapi can make a new order from buyer.
+8:06 AM · Oct 25, 2022
+
+### Day 176 | 2nd #100DaysOfCode
+
+Setup XAMPP so that WordPress can run in localhost. Allow permission setting so that WordPress can connect to the filesystem to install free theme. Prepare to have a go on http://frontendmentor.io tomorrow.
+11:21 PM · Oct 25, 2022
+
+### Day 177 | 2nd #100DaysOfCode
+
+Did a project with
+@Cii_siq
+today in http://frontendmentor.io. The main takeaways for me are using flexbox to aline elements in row, column and centre, applying overflow: hidden to hide scroll bars, and making responsive card with showing & hiding img.
+9:25 PM · Oct 26, 2022
+
+### Day 178 | 2nd #100DaysOfCode
+
+Recap the code I did in Codewars and past interviews to prepare helping my friend entering a coding bootcamp. I really wish that he can make it since he is eager to learn and want to work in IT field so badly.
+11:34 PM · Oct 27, 2022
+
+### Day 179 | 2nd #100DaysOfCode
+
+Help to ace an interview by practicing coding skills with my friend. Wish him good luck in entering the bootcamp. Had a meeting in morning about volunteering with improving a website’s SEO.
+11:35 PM · Oct 28, 2022
+
+### Day 180 | 2nd #100DaysOfCode
+
+Take a break today.
+11:51 PM · Oct 29, 2022
+
+### Day 181 | 2nd #100DaysOfCode
+
+Starting a project in http://frontendmentor.io called "base apparel coming soon page". Found there are many ways to scale a svg and I am figuring out how to do it properly.
+11:53 PM · Oct 30, 2022
+
+### Day 182 | 2nd #100DaysOfCode
+
+Take a break today.
+2:02 PM · Nov 1, 2022
+
+### Day 183 | 2nd #100DaysOfCode
+
+Finish making the mobile version and desktop version of the project base-apparel-coming-soon in http://frontendmentor.io . Still need a bit time to make the email validation works by writing JavaScript.
+11:57 PM · Nov 1, 2022
+
+### Day 184 | 2nd #100DaysOfCode
+
+Finish the project qr-code-component in http://frontendmentor.io with
+@withluis1
+today. Awesome!
+9:23 PM · Nov 2, 2022
+
+### Day 185 | 2nd #100DaysOfCode
+
+Finish the project coming-soon-page in http://frontendmentor.io . The JavaScript bit still needs to be improved as the email validation only checks when user pressing submit button but not in real time.
+9:19 PM · Nov 3, 2022
+
+### Day 186 | 2nd #100DaysOfCode
+
+Read the book React Projects Second Edition from packt. Review how to use useEffect & useState. Start the project FAQ accordion card in http://frontendmentor.io .
+6:28 AM · Nov 5, 2022
+
+### Day 187 | 2nd #100DaysOfCode
+
+Take a break today.
+6:28 AM · Nov 5, 2022
+
+### Day 188, 189 | 2nd #100DaysOfCode
+
+Work on frontend development tutorials in freecodecamp.
+9:02 PM · Nov 7, 2022
+
+### Day 190 | 2nd #100DaysOfCode
+
+Have my first meeting with my internship project team. Watching tutorials from
+@KevinJPowell
+to learn his way of finishing space travel site provided by http://frontendmentor.io .
+4:59 PM · Nov 9, 2022
+
+### Day 191 | 2nd #100DaysOfCode
+
+Learn about web rendering in http://patterns.dev . Learn how React tracks changes.
+8:17 PM · Nov 10, 2022
+
+### Day 192 | 2nd #100DaysOfCode
+
+Continue with the space travel site tutorials. Learn NextJS and React Hooks again. Do planning for the internship meeting booking system project.
+11:45 PM · Nov 11, 2022
+
+### Day 193, 194 | 2nd #100DaysOfCode
+
+Finish 7 easy LeetCodes. Building the desktop version of the faq accordion card project in http://frontendmentor.io by using grid in my first time. Using the reset properties in css from Kevin Powell's tutorials.
+11:27 PM · Nov 12, 2022
+
+### Day 195 | 2nd #100DaysOfCode
+
+Take a break today.
+11:18 PM · Nov 13, 2022
+
+### Day 196 | 2nd #100DaysOfCode
+
+Take a break today.
+10:03 PM · Nov 14, 2022
+
+### Day 197, 198 | 2nd #100DaysOfCode
+
+Planning for the internship work.
+11:21 PM · Nov 16, 2022
+
+### Day 199 | 2nd #100DaysOfCode
+
+First meeting that has all our team members available to participate. Discuss the ideation, make screenshot for user stories, draw out the client & organiser journey, set our MVP prioritisation, figure out our tech stack. Start our low fi designs.
+3:26 PM · Nov 18, 2022
+
+### Day 200 | 2nd #100DaysOfCode
+
+Focus on low fi designs, and have a group meeting with business owner. The dashboard & create a new meeting type page are challenging since they include important functions in our application.
+11:19 PM · Nov 19, 2022
+
+### Day 201, 202 | 2nd #100DaysOfCode
+
+Start learning NextJS v12. Learn the concept and know how to implement client side rendering, server side rendering, static site generation, and incremental static regeneration by an example fetching data from dummyjson API.
+11:19 PM · Nov 20, 2022
+
+### Day 203 | 2nd #100DaysOfCode
+
+Complete low fi designs. Make notes with csr, ssr, ssg, isr in NextJS with example and share them with teammates, which will be helpful to decide which type of rendering we would pick to build our project.
+12:05 AM · Nov 22, 2022
+
+### Day 204 | 2nd #100DaysOfCode
+
+Finish half of the high fidelity designs. Take a break tonight and chill with fd.
+6:21 PM · Nov 22, 2022
+
+### Day 205 | 2nd #100DaysOfCode
+
+Finish the remain half of the high fidelity designs. Chat with teammates about job searching tools and technique.
+11:25 PM · Nov 23, 2022
+
+### Day 206 | 2nd #100DaysOfCode
+
+Discuss the tech stack, where we will use React and NodeJS for our project since we are not going to use Server Side Rendering. Design the database setup and API Routes. Meet will business owner and present our Figma designs.
+11:25 PM · Nov 24, 2022
+
+### Day 207 | 2nd #100DaysOfCode
+
+Take a break today.
+10:44 PM · Nov 25, 2022
+
+### Day 208, 209, 210 | 2nd #100DaysOfCode
+
+Use the time mainly for applying tech jobs.
+4:59 PM · Nov 28, 2022
+
+### Day 211, 212 | 2nd #100DaysOfCode
+
+Take a break and search for the usage example of Nodemailer.
+11:29 PM · Nov 30, 2022
+
+### Day 213, 214 | 2nd #100DaysOfCode
+
+Setup the database on http://fly.io . Figuring out how to select/exclude specific date in React datepicker. Join JavaScriptmas in Scrimba.
+10:09 PM · Dec 3, 2022
+
+### Day 215, 216 (Sat, Sun) | 2nd #100DaysOfCode
+
+Take a break and prepare for the video interviews on next week.
+9:04 PM · Dec 5, 2022
+
+### Day 217, 218 (Mon, Tue) | 2nd #100DaysOfCode
+
+Read tutorials, add dynamic routes, fetch organisers data from backend & check base url validity using .find, make excluding time in specific day possible, change class comp. to function comp., apply useEffect to solve rendering bug.
+8:04 PM · Dec 7, 2022
+
+### Day 219, 220 (Wed, Thu) | 2nd #100DaysOfCode
+
+Work on the backend to link it to database, create & populate table, can now get request in localhost. Work on the frontend as well to apply coding in availability form making it shows week days correctly.
+11:53 PM · Dec 9, 2022
+
+### Day 221 (Fri) | 2nd #100DaysOfCode
+
+Did the phone interview and take a break today.
+11:55 PM · Dec 9, 2022
+
+### Day 222, 223 (Sat, Sun) | 2nd #100DaysOfCode
+
+Prepare tutorial materials and teach new bootcamper how to use GitHub and terminal, then go through data type, variable, condition, repetition, arrays, strings. Finish first bootcamp exercise with him.
+10:49 PM · Dec 12, 2022
+
+### Day 224 (Mon) | 2nd #100DaysOfCode
+
+Finish strength-based video recording interview.
+10:50 PM · Dec 12, 2022
+
+### Day 225-227 (Tue-Thu) | 2nd #100DaysOfCode
+
+Test Nodemailer with mailtrap, make availability form working with useEffect and tidying up with looping in JSX, try to solve the bugs with cors in axios with http://fly.io backend.
+11:55 PM · Dec 15, 2022
+
+### Day 228 (Fri) | 2nd #100DaysOfCode
+
+Meet with coach to share our team's progress, and take a break.
+3:47 PM · Dec 20, 2022
+
+### Day 229-231 (Sat-Mon) | 2nd #100DaysOfCode
+
+Find the bugs in query, one is needed to be in single quote, another one is removing an extra comma before WHERE. Set time range in datepicker with data in database. Check valid meeting type to organiser and send booking data to backend.
+3:51 PM · Dec 20, 2022
+
+### Day 232 (Tue) | 2nd #100DaysOfCode
+
+Teach coding knowledge to candidate: arrow function, function expression, truthy/falsy, when does it return true/false or a value or a string, method and property relate to String, method and property relate to Array,
+method relates to Global.
+3:55 PM · Dec 20, 2022
+
+### Day 233,234 (Wed, Thu) | 2nd #100DaysOfCode
+
+Exclude booked meeting from the datepicker. Meet Chris to show our progress and discuss the internships arrangement in January.
+6:54 PM · Dec 25, 2022
+
+### Day 235-237 (Fri-Sun) | 2nd #100DaysOfCode
+
+X'mas break and planning what skills and career path should be focused on in the next few months.
+6:57 PM · Dec 25, 2022
+
+### Day 238-240 (Mon-Wed) | 2nd #100DaysOfCode
+
+More breaks. Fixed the auth0 redirecting error. Reorganise the routes. Remove signup button for now. Prepare for video interview for a new company.
+12:58 AM · Dec 29, 2022
+
+### Day 241-244 (Thu-Sun) | 2nd #100DaysOfCode
+
+Prepare and do the video interview.
+3:29 PM · Jan 4, 2023
+
+### Day 245, 246 (Mon, Tue) | 2nd #100DaysOfCode
+
+Tutorial with my friend about solving pre-course coding challenges. Merged my work with the backend.
+3:30 PM · Jan 4, 2023
+
+### Day 247 (Wed) | 2nd #100DaysOfCode
+
+Meet with internships team and make the frontend working with the testing backend. Solved client client authentication problem by adding parse from pg-connection-string in config.
+3:34 PM · Jan 4, 2023
+
+### Day 248 (Thu) | 2nd #100DaysOfCode
+
+Link the booking form to the confirmation page. Meet with coach to report our progress. Farewell one of our team member, who got hired as a front end developer, by playing our favourite game the garlic phone.
+8:27 PM · Jan 7, 2023
+
+### Day 249 (Fri) | 2nd #100DaysOfCode
+
+Tutored my friend online to finish problem-solving and functional-programming coding challenges. Attempted to finish some of the advanced challenges.
+8:31 PM · Jan 7, 2023
+
+### Day 250 (Sat) | 2nd #100DaysOfCode
+
+Finished even more advanced challenges with my friend. Taught him basic html like heading tag, paragraph tag, image tag, ordered & unordered list. Built the tribute page project on freecodecamp with him.
+8:34 PM · Jan 7, 2023
+
+### Day 251-254 (Sun-Wed) | 2nd #100DaysOfCode
+
+Prepare for functional skills assessment in English and Maths. Create a validation with user after login.
+10:30 PM · Jan 16, 2023
+
+### Day 255-256 (Thu-Fri) | 2nd #100DaysOfCode
+
+Save organiser info from database to frontend using useContext. Meet Chris and create user stories. Made the frontend dashboard able to check and create a new organiser in the database through POST request.
+10:33 PM · Jan 16, 2023
+
+### Day 257-258 (Sat-Sun) | 2nd #100DaysOfCode
+
+Take a break today.
+10:34 PM · Jan 16, 2023
+
+### Day 259 (Mon) | 2nd #100DaysOfCode
+
+Attend the first day of IELTS speaking tutorial. I was taught using synonyms and answering questions using a varieties of tenses.
+10:36 PM · Jan 16, 2023
+
+### Day 260-262 (Tue-Thu) | 2nd #100DaysOfCode
+
+Learn note taking, connectives, linkers, word stress, sentence stress, intonation, chunking, functional vocab for IELTS speaking. Create a new organiser through POST request if his/her email is new to the backend email list. Navbar CSS.
+12:04 AM · Jan 27, 2023
+
+### Day 263 (Fri) | 2nd #100DaysOfCode
+
+Day off and went to job fair.
+12:04 AM · Jan 27, 2023
+
+### Day 264-266 (Sat-Mon) | 2nd #100DaysOfCode
+
+Caught a cold and got plenty of rest.
+12:08 AM · Jan 27, 2023
+
+### Day 267, 268 (Tue-Wed) | 2nd #100DaysOfCode
+
+Attended the first lesson of functional skills in English and Maths Level 2, and attended a tech job interview.
+12:11 AM · Jan 27, 2023
+
+### Day 269 (Thu) | 2nd #100DaysOfCode
+
+Start making a list that the backend can simplify works for the frontend, and connecting the frontend with the http://fly.io backend. The list is still building yet I made the first two items before the end of the day.
+12:15 AM · Jan 27, 2023
+
+### Day 270 (Fri) | 2nd #100DaysOfCode
+
+Finish making a list of frontend requests which the works can be simplified in the backend.
+5:12 PM · Feb 2, 2023
+
+### Day 271 (Sat) | 2nd #100DaysOfCode
+
+Setup huntr account for applying jobs from School Of Code. Submit sunny side agency landing page project in http://frontendmentor.io.
+5:16 PM · Feb 2, 2023
+
+### Day 272 (Sun) | 2nd #100DaysOfCode
+
+First day practice IELTS speaking with member in the IELTS study group. Have tutorial with my friend teaching him about scope, function declaration, function expression, recursion, closure.
+5:19 PM · Feb 2, 2023
+
+### Day 273 (Mon) | 2nd #100DaysOfCode
+
+Take a break today.
+5:19 PM · Feb 2, 2023
+
+### Day 274 (Tue) | 2nd #100DaysOfCode
+
+Take classes in functional skills English and Maths Level 2.
+5:21 PM · Feb 2, 2023
+
+### Day 275 (Wed) | 2nd #100DaysOfCode
+
+Finish Tailwind CSS tutorial in Scrimba.
+5:22 PM · Feb 2, 2023
+
+### Day 276, 277 (Thu, Fri) | 2nd #100DaysOfCode
+
+Continue working on dashboard that builds with tailwindcss.
+9:51 PM · Feb 11, 2023
+
+### Day 278 (Sat) | 2nd #100DaysOfCode
+
+Take a break today.
+9:52 PM · Feb 11, 2023
+
+### Day 279 (Sun) | 2nd #100DaysOfCode
+
+Practice IELTS speaking, and start a translator app project using Firebase extension with NextJS.
+9:53 PM · Feb 11, 2023
+
+### Day 280-283 (Mon-Thu) | 2nd #100DaysOfCode
+
+Work on an interview challenges that has backend and frontend questions. For the backend, it is to write an algorithm to select pairs with a particular sum value in an array. For frontend, it is to build an app that fetch data from API.
+9:57 PM · Feb 11, 2023
+
+### Day 284 (Fri) | 2nd #100DaysOfCode
+
+Continue building the dashboard with tailwindcss. Now the meeting cards are responsive and display differently in mobile, tablet and desktop.
+9:58 PM · Feb 11, 2023
+
+### Day 285 (Sat) | 2nd #100DaysOfCode
+
+Take a break today.
+9:59 PM · Feb 11, 2023
+
+### Day 286-288 (Sun-Tue) | 2nd #100DaysOfCode
+
+Prepare for the interview on Wednesday.
+7:05 PM · Feb 18, 2023
+
+### Day 289-291 (Wed-Fri) | 2nd #100DaysOfCode
+
+Make a list of frontend request that can be simplified on backend. Continue building the dashboard with tailwindcss, it have main, upcoming events, past events and templates sections now. Finish 21 8kyu problems in codewars.
+11:44 PM · Feb 18, 2023
+
+### Day 292-294 (Sat-Mon) | 2nd #100DaysOfCode
+
+Take a break and travel with friends & family.
+3:51 PM · Feb 27, 2023
+
+### Day 295 (Tue) | 2nd #100DaysOfCode
+
+Take the functional skills Level 2 English exam.
+3:52 PM · Feb 27, 2023
+
+### Day 296-298 (Wed-Fri) | 2nd #100DaysOfCode
+
+Continue with the internship project. Fine tune the homepage with tailwind. Learn to use http://fly.io, psql and docker from the backend team.
+3:53 PM · Feb 27, 2023
+
+### Day 299-301 (Sat-Mon) | 2nd #100DaysOfCode
+
+Plan to take A level as well since I will finish functional skills level 2 exams in English and Math. They can be used for applying apprenticeship. Buy A level textbooks and complete few further maths past paper questions.
+4:00 PM · Feb 27, 2023
+
+### Day 302 (Tue) | 2nd #100DaysOfCode
+
+Take the functional skills Level 2 Maths exam.
+12:40 PM · Mar 9, 2023
+
+### Day 303-309 (Wed-Tue) | 2nd #100DaysOfCode
+
+Caught a cold and took some rest.
+12:42 PM · Mar 9, 2023
+
+### Day 310-312 (Wed-Fri) | 2nd #100DaysOfCode
+
+Present our half-way internship project to coaches. Separate login functionality for client and organiser. Finalising initial dashboard tasks.
+1:01 PM · Mar 15, 2023
+
+### Day 313 (Sat) | 2nd #100DaysOfCode
+
+Take a break today.
+1:02 PM · Mar 15, 2023
+
+### Day 314 (Sun) | 2nd #100DaysOfCode
+
+Tutorial with a candidate about recursion, closure and async.
+1:04 PM · Mar 15, 2023
+
+### Day 315,316 (Mon, Tue) | 2nd #100DaysOfCode
+
+Learn the basic of Python and plan to create a project about image detection.
+1:06 PM · Mar 15, 2023
+
+### Day 317-319 (Wed-Fri) | 2nd #100DaysOfCode
+
+Create another layer for user Auth0 login and named it callback page. Set dynamical callback url so that organiser will redirect to dashboard and client will redirect to booking page. Get access token with getAccessTokenSilently.
+8:55 PM · Mar 22, 2023
+
+### Day 320-322 (Sat-Mon) | 2nd #100DaysOfCode
+
+Take a break today. Went to Lyme Park and visited the house and garden.
+9:00 PM · Mar 22, 2023
+
+### Day 323,324 (Tue, Wed) | 2nd #100DaysOfCode
+
+Connect the frontend with http://fly.io backend by linking the validation of organiserSlug and meetingSlug with the http://fly.io database. Fix the error in backend so that it can fetch meeting data now.
+9:05 PM · Mar 22, 2023
+
+### Day 325,326 (Thu, Fri) | 2nd #100DaysOfCode
+
+Finish linking the header and calendar parts in bookingpage to http://fly.io backend. Finish linking the bookingform to it as well. Rewriting most of the useEffect & query to achieve the result.
+1:26 PM · Apr 5, 2023
+
+### Day 327,328 (Sat, Sun) | 2nd #100DaysOfCode
+
+Take a break today and go to Quarry Bank.
+1:27 PM · Apr 5, 2023
+
+### Day 329-335 (Mon-Sun) | 2nd #100DaysOfCode
+
+Teach and build an API with node and express with my friend.
+1:29 PM · Apr 5, 2023
+
+### Day 336, 337 (Mon, Tue) | 2nd #100DaysOfCode
+
+Take a break today.
+1:30 PM · Apr 5, 2023
+
+### Day 338, 339 (Wed, Thu) | 2nd #100DaysOfCode
+
+Get familiar with Google App Script documentation. Plan out our MVP 1 and 2. Get clasp working locally and test if our changes can be pushed to App Script. Create the extension interface with input boxes and confirmation button.
+10:00 PM · Apr 21, 2023
+
+### Day 340-344 (Fri-Tue) | 2nd #100DaysOfCode
+
+Take a break in Easter holiday.
+10:04 PM · Apr 21, 2023
+
+### Day 345-347 (Wed-Fri) | 2nd #100DaysOfCode
+
+Finish Milestone 1: Manually type info in the right panel and click 'confirm' will create an event in Google Calendar. And finish Milestone 3: Create template directly in the right panel and past the info into Google Sheet.
+10:06 PM · Apr 21, 2023
+
+### Day 348,349 (Sat,Sun) | 2nd #100DaysOfCode
+
+Make my part in Milestone 2 works: To auto-fill input boxes by selecting in dropdown menu in Google Apps Script.
+10:08 PM · Apr 21, 2023
+
+### Day 350-354 (Mon-Fri) | 2nd #100DaysOfCode
+
+Have tutorial with my candidate by working on a frontend project. Finish the remaining in Milestone 2: Linking the input boxes to the Event's title and description so that data can be updated by a button.
+10:10 PM · Apr 21, 2023
+
+### Day 355-356 (Sat-Sun) | 2nd #100DaysOfCode
+
+Take a break today.
+11:47 PM · May 4, 2023
+
+### Day 357-358 (Mon-Tue) | 2nd #100DaysOfCode
+
+Study Year 1 Pure in Maths.
+11:49 PM · May 4, 2023
+
+### Day 359-361 (Wed-Fri) | 2nd #100DaysOfCode
+
+Make the presentation slides and have rehearsals for our MVP 1 Google Calendar Add-on. Create a refresh dropdown menu button to refresh the page if the database is updated. Create functions to handle the refresh button change.
+11:52 PM · May 4, 2023
+
+### Day 362-363 (Sat-Sun) | 2nd #100DaysOfCode
+
+Take a break and start building a navbar with Auth0 login logout with my candidate.
+11:56 PM · May 4, 2023
+
+### Day 364-365 (Mon-Tue) | 2nd #100DaysOfCode
+
+Study Year 1 Pure in Maths and do css styling in the navbar with my candidate. Fix the Auth0 authentication error by changing “Token Endpoint Authentication Method” from “POST” to “None”.
+12:03 AM · May 5, 2023
+
+### 1y Day 1,2 (Wed,Thu) | 2nd #100DaysOfCode
+
+Study Year 2 Pure in Maths and build terms and condition page with my candidate. Build the footer component as well. Update university of code's coding challenge progress in my 2nd 100 day of code GitHub repo.
+12:12 AM · May 5, 2023
+
+### 1y Day 3 (Fri) | 2nd #100DaysOfCode
+
+Update UOC daily coding challenge. Make homepage responsive and build hero section with my candidate. Study python projects: password generator, speech to text, calculate age. Study Year 2 Pure in Maths.
+5:21 PM · May 5, 2023
+
+### 1y Day 4 (Sat) | 2nd #100DaysOfCode
+
+Study Year 2 Pure in Maths and study Python project: Send email from csv.
+10:47 PM · May 6, 2023
+
+### 1y Day 5 (Sun) | 2nd #100DaysOfCode
+
+Study Year 2 Pure in Maths. Read articles from http://medium.com about building a chatbot with GPT-4 API, and building OCR using TensorFlow. Study python project: Encrypt and decrypt text.
+11:25 PM · May 7, 2023
+
+### 1y Day 6 (Mon) | 2nd #100DaysOfCode
+
+Update UOC daily coding challenge. Fix colour accessibility in the webpage and resolve merge conflict using the command line with my candidate. Learn to use fx-cg50 graphical calculator.
+10:54 PM · May 8, 2023
+
+### 1y Day 7 (Tue) | 2nd #100DaysOfCode
+
+Update daily coding challenge to GitHub. Do some color changes in the hamburger icon, add map component in the homepage and fix error when merging with my candidate.
+11:29 PM · May 9, 2023
+
+### 1y Day 8 (Wed) | 2nd #100DaysOfCode
+
+Update UOC daily coding challenge as usual. Present our Google Calendar Plugin MVP 1 to tech lead and coach. Help my candidate to get the user info from Auth0 in React frontend. Study Year 2 Pure in Maths.
+11:02 PM · May 10, 2023
+
+### 1y Day 9 (Thu) | 2nd #100DaysOfCode
+
+Update UOC coding challenge. Working on connect spreadSheetId and sheetName in Settings to all the functions in Apps Script, and do alternative case if the user inputs incorrect info since the apps will break if user does settings incorrectly.
+11:17 PM · May 11, 2023
+
+### 1y Day 10 (Fri) | 2nd #100DaysOfCode
+
+Update UOC daily coding challenge. Create options page for user to pick which input boxes they would want using switches. Save the switch changes to property services.
+11:38 PM · May 12, 2023
+
+### 1y Day 11 (Sat) | 2nd #100DaysOfCode
+
+Study Python project: Speaking dictionary. Study Year 2 Pure in Maths.
+11:27 PM · May 13, 2023
+
+### 1y Day 12 (Sun) | 2nd #100DaysOfCode
+
+Study Python project: Convert json to csv. Study C1 vocabulary and grammar. Study Year 2 Pure in Maths.
+11:16 PM · May 14, 2023
+
+### 1y Day 13 (Mon) | 2nd #100DaysOfCode
+
+Update UOC daily coding challenge. Study Python project: Digital Clock. Study sentence structures and C1 vocabulary.
+11:51 PM · May 15, 2023
+
+### 1y Day 14 (Tue) | 2nd #100DaysOfCode
+
+Update UOC daily coding challenge. Continue with the internship project adding time date picker, making them optional, able to adding event with the time, able to update the google sheet and retrieve data from it.
+9:59 PM · May 16, 2023
+
+### 1y Day 15 (Wed) | 2nd #100DaysOfCode
+
+Update UOC daily coding challenge. Change Epoch date time format to standard one so that AppSheet can read it. Prepare a script to explain the App in sensitive scope verification process before submit the add-on. Study Year 2 Pure in Maths.
+11:14 PM · May 17, 2023
+
+### 1y Day 16 (Thu) | 2nd #100DaysOfCode
+
+Update UOC daily coding challenge. Write a script for the video in sensitive scope verification for the Google API Scopes we used. Show the examples for using each scope. Study Year 2 Pure in Maths.
+9:33 PM · May 18, 2023
+
+### 1y Day 17 (Fri) | 2nd #100DaysOfCode
+
+Update UOC daily coding challenge. Fix the hero image position in the blog using css in blogger editor. Write get started steps for the Add-on in an article. Study Year 2 Pure in Maths.
+5:16 PM · May 19, 2023
+
+### 1y Day 18 (Sat) | 2nd #100DaysOfCode
+
+Decided to create image recognition AI project for the exam. Read the introductory book 'Make Your Own Neural Network'. Take a look object detection and hand gesture recognition projects on YouTube as well.
+11:25 PM · May 20, 2023
+
+### 1y Day 19 (Sun) | 2nd #100DaysOfCode
+
+Study Python project: Easy video player. Continue to read kindle books related to the project, and search more info about Tensorflow.
+10:57 PM · May 21, 2023
+
+### 1y Day 20 (Mon) | 2nd #100DaysOfCode
+
+Update UOC daily coding challenge. Study Python project: Billing System. Study Year 2 Pure in Maths.
+11:23 PM · May 22, 2023
+
+### 1y Day 21 (Tue) | 2nd #100DaysOfCode
+
+Update UOC daily coding challenge. Record video for the Sensitive Scope Verification needed to submit our Google Add-on.
+11:53 PM · May 23, 2023
