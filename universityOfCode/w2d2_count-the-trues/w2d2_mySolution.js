@@ -9,3 +9,14 @@ function countTrue(arr) {
   return temp;
 }
 /***********************Code Ends********************************/
+
+/* Given Helpful Links
+ Array.prototype.filter()
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+ Array.prototype.reduce()
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
+ Arrow Function
+   - https://www.w3schools.com/js/js_arrow_function.asp
+ Array.prototype.length
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length
+*/

@@ -49,3 +49,16 @@ console.log(cipher("PAPAFAM-Rules", 2));
 console.log(cipher("This-problem-is-hard", 10));
 console.log(cipher("ZzZz", 28));
 /*******************Code Ends********************************/
+
+/* Given Helpful Links
+ Caesar Cipher
+   - https://www.dcode.fr/caesar-cipher
+ Caesars Cipher
+   - https://en.wikipedia.org/wiki/Caesar_cipher
+ String.prototype.charCodeAt()
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt
+ String.prototype.replace()
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+ String.fromCharCode()
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode
+*/
