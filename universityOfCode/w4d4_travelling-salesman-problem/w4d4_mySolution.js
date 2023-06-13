@@ -15,3 +15,10 @@ function paths(n) {
 // Reference:
 // https://glot.io/snippets/esqrmj6v7l
 // https://javascript.plainenglish.io/how-to-solve-permutations-in-javascript-502cc4522482
+
+/* Given Helpful Links
+ Factorialize a Number
+   - https://stackoverflow.com/questions/32147732/factorialize-a-number/32148163#32148163
+ Traveling Salesman Number of Possible Routes
+   - https://math.stackexchange.com/questions/1726052/traveling-salesman-number-of-possible-routes
+*/
