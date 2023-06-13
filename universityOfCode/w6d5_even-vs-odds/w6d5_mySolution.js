@@ -17,3 +17,10 @@ function likedSpots(arr, num) {
     return temp;
   }
 }
+
+/* Given Helpful Links
+ Array.prototype.reduce()
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
+ Array.prototype.map()
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+*/

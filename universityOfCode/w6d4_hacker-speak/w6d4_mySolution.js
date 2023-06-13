@@ -18,3 +18,12 @@ function hackerSpeak(str) {
     })
     .join("");
 }
+
+/* Given Helpful Links
+ String.prototype.replace()
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+ Regular Expressions
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+ Array.prototype.map()
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+*/
