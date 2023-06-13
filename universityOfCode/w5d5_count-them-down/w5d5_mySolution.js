@@ -19,3 +19,14 @@ console.log(countdownSequences([4, 4, 5, 4, 3, 2, 1, 8, 3, 2, 1]));
 console.log(countdownSequences([4, 3, 2, 1, 3, 2, 1, 1]));
 console.log(countdownSequences([1, 1, 2, 1]));
 console.log(countdownSequences([]));
+
+/* Given Helpful Links
+ Array.prototype.reduce()
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
+ Array.prototype.reduceRight()
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/ReduceRight
+ For
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
+ Loops and Iteration
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
+*/
