@@ -17,3 +17,16 @@ function potatoCount(str) {
   }
   return count;
 }
+
+/* Given Helpful Links
+ How to Count String Occurrence in String
+   - https://stackoverflow.com/questions/4009756/how-to-count-string-occurrence-in-string
+ String.prototype.match()
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match
+ String length
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
+ JavaScript Regular Expressions
+   - https://www.w3schools.com/js/js_regexp.asp
+ String.prototype.matchAll()
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/matchAll
+*/
