@@ -21,3 +21,10 @@ console.log(makePlusFunction(0)(0));
 
 // Reference
 // Review w3d1 Same Function Again
+
+/* Given Helpful Links
+ Closures
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+ Function Closures
+   - https://www.w3schools.com/js/js_function_closures.asp
+*/
