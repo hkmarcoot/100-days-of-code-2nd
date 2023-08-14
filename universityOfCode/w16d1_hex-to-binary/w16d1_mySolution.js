@@ -6,6 +6,9 @@ console.log(toBinary("0xFF"));
 console.log(toBinary("0xAA"));
 console.log(toBinary("0xFA"));
 
+// Reference
+// https://stackoverflow.com/questions/45053624/convert-hex-to-binary-in-javascript
+
 /* Given Helpful Links
  Bitwise
    - https://www.w3schools.com/js/js_bitwise.asp
