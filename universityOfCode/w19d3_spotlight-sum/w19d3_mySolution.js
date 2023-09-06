@@ -35,6 +35,9 @@ console.log(spotlightSum(19));
 console.log(spotlightSum(48));
 console.log(spotlightSum(88));
 
+// Reference
+// https://stackoverflow.com/questions/7784620/javascript-number-split-into-individual-digits
+
 /* Given Helpful Links
  Multidimensional Array
    - https://www.javascripttutorial.net/javascript-multidimensional-array/
