@@ -15,7 +15,13 @@ function palindromeTimestamps(
     }
   } else if (firsthr === secondhr) {
     for (let j = firstmin; j <= secondmin; j++) {
-      if (j === secondmin) {
+      if (j === firstmin) {
+        for (let k = firstsec; k < 60; k++) {
+          if (checkPalindrome(firsthr, j, k)) {
+            count++;
+          }
+        }
+      } else if (j === secondmin) {
         for (let k = 0; k <= secondsec; k++) {
           if (checkPalindrome(firsthr, j, k)) {
             count++;
@@ -39,29 +45,27 @@ function palindromeTimestamps(
             }
           }
         }
-      } else {
-        if (i === firsthr) {
-          for (let j = firstmin; j < 60; j++) {
-            if (j === firstmin) {
-              for (let k = firstsec; k < 60; k++) {
-                if (checkPalindrome(i, j, k)) {
-                  count++;
-                }
-              }
-            } else {
-              for (let k = 0; k < 60; k++) {
-                if (checkPalindrome(i, j, k)) {
-                  count++;
-                }
+      } else if (i === firsthr) {
+        for (let j = firstmin; j < 60; j++) {
+          if (j === firstmin) {
+            for (let k = firstsec; k < 60; k++) {
+              if (checkPalindrome(i, j, k)) {
+                count++;
               }
             }
-          }
-        } else {
-          for (let j = 0; j < 60; j++) {
+          } else {
             for (let k = 0; k < 60; k++) {
               if (checkPalindrome(i, j, k)) {
                 count++;
               }
+            }
+          }
+        }
+      } else {
+        for (let j = 0; j < 60; j++) {
+          for (let k = 0; k < 60; k++) {
+            if (checkPalindrome(i, j, k)) {
+              count++;
             }
           }
         }
