@@ -39,9 +39,17 @@ function palindromeTimestamps(
     for (let i = firsthr; i <= secondhr; i++) {
       if (i === secondhr) {
         for (let j = 0; j <= secondmin; j++) {
-          for (let k = 0; k < 60; k++) {
-            if (checkPalindrome(i, j, k)) {
-              count++;
+          if (j === secondmin) {
+            for (let k = 0; k <= secondsec; k++) {
+              if (checkPalindrome(i, j, k)) {
+                count++;
+              }
+            }
+          } else {
+            for (let k = 0; k < 60; k++) {
+              if (checkPalindrome(i, j, k)) {
+                count++;
+              }
             }
           }
         }
