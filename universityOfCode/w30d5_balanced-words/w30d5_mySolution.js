@@ -1,5 +1,5 @@
 function balanced(str) {
-  const alphbetToNum = {
+  const alphabetToNum = {
     a: 1,
     b: 2,
     c: 3,
@@ -37,8 +37,8 @@ function balanced(str) {
     firstHalf = arr.slice(0, Math.floor(arr.length / 2));
     secondHalf = arr.slice(Math.ceil(arr.length / 2));
   }
-  var firstTotal = firstHalf.reduce((a, c) => a + alphbetToNum[c], 0);
-  var secondTotal = secondHalf.reduce((a, c) => a + alphbetToNum[c], 0);
+  var firstTotal = firstHalf.reduce((a, c) => a + alphabetToNum[c], 0);
+  var secondTotal = secondHalf.reduce((a, c) => a + alphabetToNum[c], 0);
 
   return firstTotal === secondTotal;
 }
