@@ -1,5 +1,9 @@
 # I've joined the #100DaysOfCode Challenge
 
+## Notes
+
+This 2nd 100 days of code challenge records my work after the SOC bootcamp.
+
 ## Contents
 
 - [Rules](rules.md)
