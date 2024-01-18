@@ -19,5 +19,5 @@ console.log(isOrthogonal([3, 8, 9], [16, 17, -18]));
    Array.prototype.reduce()
      - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
    Array.prototype.map()
-     - Array.prototype.map()
+     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
   */
