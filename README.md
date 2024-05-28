@@ -7,7 +7,7 @@ This 2nd 100 days of code challenge records my work after the SOC bootcamp.
 ## Contents
 
 - [Rules](rules.md)
-- [Twitter Log - click here to see my progress](log.md)
+- [Twitter Log - click here to see my progress](https://x.com/marcotsang112)
 - [FAQ](FAQ.md)
 - [Resources](resources.md)
 
