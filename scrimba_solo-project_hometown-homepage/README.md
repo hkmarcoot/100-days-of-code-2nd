@@ -1,11 +1,20 @@
+# Link To The Project In Scrimba
+
+On the Scrimba platform, viewers can playback and watch how the webpage is developed.
+
+Project Link: https://v2.scrimba.com/s0nishp1a7
+
 # Getting Started
+
 Install the dependencies and run the project
+
 ```
 npm install
 npm start
 ```
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
