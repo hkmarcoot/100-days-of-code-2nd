@@ -72,3 +72,46 @@ img {
 .card img {
   border-radius: 50%;
 }
+
+#guide-section {
+  color: #1d3557;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#guide-container {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 30px;
+  background: #a8dadc;
+  border-radius: 10px;
+  border-bottom: 8px solid #1d3557;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+#guide-container img {
+  width: 200px;
+  border-radius: 10px;
+}
+
+#guide-description h3 {
+  margin: 0;
+  font-size: 24px;
+}
+
+#guide-description p {
+  font-style: italic;
+  margin-top: 30px;
+}
+
+#guide-description h4 {
+  margin-top: 30px;
+}
+
+#guide-description {
+  width: 200px;
+  padding-top: 30px;
+  padding-left: 20px;
+}
