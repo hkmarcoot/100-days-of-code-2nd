@@ -46,3 +46,29 @@ img {
   padding: 2px 12px;
   border-radius: 10px;
 }
+
+.card {
+  width: 200px;
+}
+
+#activities-section {
+  background: #f1faee;
+  color: #1d3557;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+#activities-title {
+  margin-top: 0;
+  font-size: 24px;
+}
+
+#card-container {
+  padding: 25px 0 0 0;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card img {
+  border-radius: 50%;
+}
