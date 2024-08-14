@@ -10,9 +10,7 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-    "@codewars/test-compat": "^1.1.0"
-  },
+  "dependencies": {},
   "scripts": {
     "test": "mocha"
   },
