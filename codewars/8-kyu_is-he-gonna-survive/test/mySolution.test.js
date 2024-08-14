@@ -1,6 +1,8 @@
-const chai = require("chai");
-const assert = chai.assert;
-chai.config.truncateThreshold = 0;
+// const chai = require("chai");
+// const assert = chai.assert;
+// chai.config.truncateThreshold = 0;
+import { assert } from "chai";
+import { hero } from "../src/mySolution.js";
 
 describe("Fixed tests", function () {
   it("Testing for fixed tests", () => {
@@ -19,7 +21,7 @@ describe("Random tests", function () {
   }
 
   function r_g(num) {
-    n = Math.random();
+    var n = Math.random();
     return Math.round(
       num * (n < 0.25 ? 0.45 : n < 0.5 ? 0.5 : n < 0.55 ? 0.47 : 0.6)
     );
