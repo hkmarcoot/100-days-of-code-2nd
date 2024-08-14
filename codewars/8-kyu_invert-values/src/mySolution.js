@@ -14,11 +14,11 @@ Tags:
 - Lists, Fundamentals, Arrays
 
 */
-function invert(array) {
+export function invert(array) {
   const newArr = array.map(timesNegativeOne);
   return newArr;
 }
 
-function timesNegativeOne(num) {
+export function timesNegativeOne(num) {
   return num * -1;
 }

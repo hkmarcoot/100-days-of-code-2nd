@@ -1,8 +1,8 @@
-const Test = require("@codewars/test-compat");
+import { assert } from "chai";
+// import { chai } from "chai";
+// chai.config.truncateThreshold = 0;
 
-const chai = require("chai");
-const assert = chai.assert;
-chai.config.truncateThreshold = 0;
+import { invert } from "../src/mySolution.js";
 
 describe("Invert array values", () => {
   const norm = (arr) => arr.map((n) => (n === -0 ? 0 : n));
