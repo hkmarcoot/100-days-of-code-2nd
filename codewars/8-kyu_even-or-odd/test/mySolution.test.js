@@ -1,6 +1,13 @@
-const chai = require("chai");
-const assert = chai.assert;
-const _ = require("lodash");
+// const chai = require("chai");
+// const assert = chai.assert;
+// const _ = require("lodash");
+
+import { assert } from "chai";
+// import { _ } from "lodash";
+import pkg from "lodash";
+const { _ } = pkg;
+
+import { evenOrOdd } from "../src/mySolution.js";
 
 // Fixed tests for every posibbly interesting type of input:
 //  - even positive numbers,
