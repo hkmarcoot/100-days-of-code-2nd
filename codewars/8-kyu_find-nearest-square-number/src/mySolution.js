@@ -1,14 +1,18 @@
 /*
 Title:
-- Is he gonna survive?
+- Find Nearest square number
 
 Description:
-- A hero is on his way to the castle to complete his mission. However, he's been told that the castle is surrounded with a couple of powerful dragons! each dragon takes 2 bullets to be defeated, our hero has no idea how many bullets he should carry.. Assuming he's gonna grab a specific given number of bullets and move forward to fight another specific given number of dragons, will he survive?
+- Your task is to find the nearest square number, nearest_sq(n) or nearestSq(n), of a positive integer n.
 
-Return true if yes, false otherwise :)
+For example, if n = 111, then nearest\_sq(n) (nearestSq(n)) equals 121, since 111 is closer to 121, the square of 11, than 100, the square of 10.
+
+If the n is already the perfect square (e.g. n = 144, n = 81, etc.), you need to just return n.
+
+
 
 Tags:
-- Fundamentals
+- Fundamentals, Mathematics
 
 */
 
