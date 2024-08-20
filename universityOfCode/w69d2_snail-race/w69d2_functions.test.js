@@ -1,5 +1,5 @@
 /* ************functions.test.js*************** */
-const mauriceWins = require("./functions");
+const mauriceWins = require("./w69d2_functions");
 
 test("test 1", () => {
   expect(mauriceWins([3, 5, 10], [4, 7, 11])).toBe(true);

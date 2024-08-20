@@ -1,5 +1,5 @@
-/* ***********functions.test.js************* */
-const mapping = require("./functions");
+/* ************functions.test.js*************** */
+const mapping = require("./w69d1_functions");
 
 test("test 1", () => {
   expect(mapping(["a", "b", "c"])).toEqual({ a: "A", b: "B", c: "C" });
