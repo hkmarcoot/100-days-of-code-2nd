@@ -1,5 +1,5 @@
 /* **********functions.test.js************** */
-const spelling = require("./functions");
+const spelling = require("./w66d1_functions");
 
 test("test 1", () => {
   expect(spelling("bee")).toEqual(["b", "be", "bee"]);

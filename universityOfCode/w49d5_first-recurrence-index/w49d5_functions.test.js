@@ -1,5 +1,5 @@
 /* *********************functions.test.js*************************** */
-const recurIndex = require("./functions");
+const recurIndex = require("./w49d5_functions");
 
 test("test 1", () => {
   expect(recurIndex("DXTDXTXDTXD")).toMatchObject({ D: [0, 3] });

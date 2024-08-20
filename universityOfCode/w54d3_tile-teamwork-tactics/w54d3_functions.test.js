@@ -1,5 +1,5 @@
 /* ****************functions.test.js********************** */
-const possibleBonus = require("./functions");
+const possibleBonus = require("./w54d3_functions");
 
 test("test 1", () => {
   expect(possibleBonus(3, 7)).toBe(true);

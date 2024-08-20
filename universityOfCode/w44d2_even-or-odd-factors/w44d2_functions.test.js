@@ -1,5 +1,5 @@
 /* **********************functions.test.js************************** */
-const factorGroup = require("./functions");
+const factorGroup = require("./w44d2_functions");
 
 test("12 has even number of factors", () => {
   expect(factorGroup(12)).toBe("even");

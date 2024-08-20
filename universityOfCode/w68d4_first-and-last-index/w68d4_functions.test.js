@@ -1,5 +1,5 @@
 /* *************functions.test.js***************** */
-const charIndex = require("./functions");
+const charIndex = require("./w68d4_functions");
 
 test("test 1", () => {
   expect(charIndex("hello", "l")).toEqual([2, 3]);

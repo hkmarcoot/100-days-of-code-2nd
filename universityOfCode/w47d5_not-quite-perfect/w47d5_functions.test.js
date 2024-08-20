@@ -1,5 +1,5 @@
 /* ****************functions.test.js********************* */
-const admirable = require("./functions");
+const admirable = require("./w47d5_functions");
 
 test("Test 1", () => {
   expect(admirable(6)).toBe("Perfect");

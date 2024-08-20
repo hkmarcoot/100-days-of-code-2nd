@@ -1,5 +1,5 @@
 /* **************functions.test.js******************** */
-const numberPairs = require("./functions");
+const numberPairs = require("./w52d5_functions");
 
 test("test 1", () => {
   expect(numberPairs("7 1 2 1 2 1 3 2")).toBe(2);

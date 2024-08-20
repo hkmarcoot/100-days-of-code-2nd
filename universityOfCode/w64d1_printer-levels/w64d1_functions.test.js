@@ -1,5 +1,5 @@
 /* *************functions.test.js***************** */
-const inkLevels = require("./functions");
+const inkLevels = require("./w64d1_functions");
 
 test("test 1", () => {
   expect(

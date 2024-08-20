@@ -1,5 +1,5 @@
 /* ***************functions.test.js*************** */
-const convertToDecimal = require("./functions");
+const convertToDecimal = require("./w61d1_functions");
 
 test("test 1", () => {
   expect(convertToDecimal(["33%", "98.1%", "56.44%", "100%"])).toEqual([

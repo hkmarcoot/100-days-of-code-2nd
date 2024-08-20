@@ -1,5 +1,5 @@
 /* ***********************functions.test.js************************ */
-const sayHelloBye = require("./functions");
+const sayHelloBye = require("./w46d1_functions");
 
 test("Test 1", () => {
   expect(sayHelloBye("jose", 1)).toBe("Hello Jose");

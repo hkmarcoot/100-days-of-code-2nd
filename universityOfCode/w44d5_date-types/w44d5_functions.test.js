@@ -1,4 +1,4 @@
-const dateChange = require("./functions");
+const dateChange = require("./w44d5_functions");
 
 test("test 1", () => {
   expect(dateChange("I was born on 11/02/98")).toBe("I was born on 11/02/1998");

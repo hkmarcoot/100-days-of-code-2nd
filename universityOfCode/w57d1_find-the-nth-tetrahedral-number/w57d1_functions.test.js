@@ -1,5 +1,5 @@
 /* ************functions.test.js************* */
-const tetra = require("./functions");
+const tetra = require("./w57d1_functions");
 
 test("test 1", () => {
   expect(tetra(1)).toBe(1);

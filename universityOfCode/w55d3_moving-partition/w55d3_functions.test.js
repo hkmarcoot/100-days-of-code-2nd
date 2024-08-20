@@ -1,5 +1,5 @@
 /* ***************functions.test.js******************* */
-const movingPartition = require("./functions");
+const movingPartition = require("./w55d3_functions");
 
 test("test 1", () => {
   expect(movingPartition([1, 2, 3, 4, 5])).toEqual([

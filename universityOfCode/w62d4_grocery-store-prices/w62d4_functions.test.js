@@ -1,5 +1,5 @@
 /* ***************functions.test.js***************** */
-const getPrices = require("./functions");
+const getPrices = require("./w62d4_functions");
 
 test("test 1", () => {
   expect(

@@ -1,5 +1,11 @@
 /* ****************functions.test.js******************* */
-const { addsNum, adds1, adds10, adds5neg, adds0 } = require("./functions");
+const {
+  addsNum,
+  adds1,
+  adds10,
+  adds5neg,
+  adds0,
+} = require("./w53d2_functions");
 
 test("test 1", () => {
   expect(adds1(3)).toBe(4);

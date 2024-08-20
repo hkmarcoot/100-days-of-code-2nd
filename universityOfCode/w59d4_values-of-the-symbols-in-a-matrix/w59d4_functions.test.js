@@ -1,5 +1,5 @@
 /* ************functions.test.js**************** */
-const checkScore = require("./functions");
+const checkScore = require("./w59d4_functions");
 
 test("test 1", () => {
   expect(checkScore([["!!!"]])).toBe(32);

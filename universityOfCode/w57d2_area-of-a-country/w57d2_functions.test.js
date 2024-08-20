@@ -1,5 +1,5 @@
 /* *****************functions.test.js******************** */
-const areaOfCountry = require("./functions");
+const areaOfCountry = require("./w57d2_functions");
 
 test("test 1", () => {
   expect(areaOfCountry("USA", 9372610)).toBe(

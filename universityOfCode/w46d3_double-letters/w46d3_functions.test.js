@@ -1,5 +1,5 @@
 /* **********************functions.test.js********************* */
-const doubleLetters = require("./functions");
+const doubleLetters = require("./w46d3_functions");
 
 test("Test 1", () => {
   expect(doubleLetters("loop")).toBe(true);

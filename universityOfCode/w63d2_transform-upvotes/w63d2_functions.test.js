@@ -1,4 +1,4 @@
-const transformUpvotes = require("./functions");
+const transformUpvotes = require("./w63d2_functions");
 
 test("test 1", () => {
   expect(transformUpvotes("20.3k 3.8k 7.7k 992")).toEqual([

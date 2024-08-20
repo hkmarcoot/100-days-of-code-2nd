@@ -1,5 +1,5 @@
 /* ************************functions.test.js************************ */
-const isSastry = require("./functions");
+const isSastry = require("./w47d3_functions");
 
 test("Test 1", () => {
   expect(isSastry(183)).toBe(true);

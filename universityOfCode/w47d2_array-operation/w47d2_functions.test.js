@@ -1,5 +1,5 @@
 /* *****************functions.test.js******************* */
-const arrayOperation = require("./functions");
+const arrayOperation = require("./w47d2_functions");
 
 test("Test 1", () => {
   expect(arrayOperation(1, 10, 3)).toEqual([3, 6, 9]);

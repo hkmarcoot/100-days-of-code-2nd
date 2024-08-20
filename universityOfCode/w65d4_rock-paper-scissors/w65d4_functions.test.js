@@ -1,5 +1,5 @@
 /* *****************functions.test.js****************** */
-const calculateScore = require("./functions");
+const calculateScore = require("./w65d4_functions");
 
 test("test 1", () => {
   expect(

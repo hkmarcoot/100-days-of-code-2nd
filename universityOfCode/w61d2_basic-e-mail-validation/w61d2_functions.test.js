@@ -1,5 +1,5 @@
 /* ***************functions.test.js****************** */
-const validateEmail = require("./functions");
+const validateEmail = require("./w61d2_functions");
 
 test("test 1", () => {
   expect(validateEmail("@edabit.com")).toBe(false);

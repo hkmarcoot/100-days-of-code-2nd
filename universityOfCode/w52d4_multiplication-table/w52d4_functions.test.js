@@ -1,5 +1,5 @@
 /* ***************functions.test.js******************* */
-const multiplicationTable = require("./functions");
+const multiplicationTable = require("./w52d4_functions");
 
 test("test 1", () => {
   expect(multiplicationTable(1)).toEqual([[1]]);

@@ -1,5 +1,5 @@
 /* ******************functions.test.js********************** */
-const swapCards = require("./functions");
+const swapCards = require("./w54d4_functions");
 
 test("test 1", () => {
   expect(swapCards(41, 98)).toBe(true);

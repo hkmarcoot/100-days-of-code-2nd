@@ -1,5 +1,5 @@
 /* *************functions.test.js*************** */
-const isFactorial = require("./functions");
+const isFactorial = require("./w58d3_functions");
 
 test("test 1", () => {
   expect(isFactorial(6)).toBe(true);

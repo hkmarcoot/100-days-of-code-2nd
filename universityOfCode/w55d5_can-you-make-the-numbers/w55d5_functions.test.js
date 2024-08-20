@@ -1,6 +1,6 @@
 /* ***********************functions.test.js********************** */
 // I have changed test 7 and 10 to be true.
-const canBuild = require("./functions");
+const canBuild = require("./w55d5_functions");
 
 test("test 1", () => {
   expect(canBuild([0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [])).toBe(true);

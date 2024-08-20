@@ -1,5 +1,5 @@
 /* ***************functions.test.js******************* */
-const validDivision = require("./functions");
+const validDivision = require("./w56d3_functions");
 
 test("test 1", () => {
   expect(validDivision("6/3")).toBe(true);

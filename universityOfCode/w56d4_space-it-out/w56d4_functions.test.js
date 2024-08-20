@@ -1,5 +1,5 @@
 /* ********************functions.test.js***************************** */
-const insertWhitespace = require("./functions");
+const insertWhitespace = require("./w56d4_functions");
 
 test("test 1", () => {
   expect(insertWhitespace("SheWalksToTheBeach")).toBe("She Walks To The Beach");

@@ -1,5 +1,5 @@
 /* *********************functions.test.js********************** */
-const reverseCase = require("./functions");
+const reverseCase = require("./w50d1_functions");
 
 test("test 1", () => {
   expect(reverseCase("Happy Birthday")).toBe("hAPPY bIRTHDAY");

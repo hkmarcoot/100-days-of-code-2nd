@@ -1,5 +1,5 @@
 /* ****************functions.test.js******************** */
-const rps = require("./functions");
+const rps = require("./w52d2_functions");
 
 test("test 1", () => {
   expect(rps("Rock", "Paper")).toBe("The winner is p2");

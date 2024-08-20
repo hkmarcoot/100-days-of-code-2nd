@@ -1,5 +1,5 @@
 /* *************functions.test.js************** */
-const removeSpecialCharacters = require("./functions");
+const removeSpecialCharacters = require("./w66d3_functions");
 
 test("test 1", () => {
   expect(removeSpecialCharacters("The quick brown fox!")).toBe(

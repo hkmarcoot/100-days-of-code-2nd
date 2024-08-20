@@ -1,5 +1,5 @@
 /* ***************functions.test.js********************* */
-const rootDigit = require("./functions");
+const rootDigit = require("./w57d4_functions");
 
 test("test 1", () => {
   expect(rootDigit(999888777)).toBe(9);

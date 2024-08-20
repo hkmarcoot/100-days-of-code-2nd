@@ -1,5 +1,5 @@
 /* ***************functions.test.js********************** */
-const numOfSubbarrays = require("./functions");
+const numOfSubbarrays = require("./w51d2_functions");
 
 test("test 1", () => {
   expect(

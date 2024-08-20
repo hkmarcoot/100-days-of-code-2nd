@@ -1,5 +1,5 @@
 /* *******************functions.test.js******************* */
-const getHashTags = require("./functions");
+const getHashTags = require("./w44d4_functions");
 
 test("test 1", () => {
   expect(

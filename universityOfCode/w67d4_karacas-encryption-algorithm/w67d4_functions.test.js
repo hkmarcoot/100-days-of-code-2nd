@@ -1,4 +1,4 @@
-const encrypt = require("./functions");
+const encrypt = require("./w67d4_functions");
 
 test("test 1", () => {
   expect(encrypt("karaca")).toBe("0c0r0kaca");

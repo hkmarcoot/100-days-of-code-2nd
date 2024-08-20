@@ -1,5 +1,5 @@
 /* **********functions.test.js************* */
-const pluralize = require("./functions");
+const pluralize = require("./w63d4_functions");
 
 test("test 1", () => {
   expect(pluralize(["cow", "pig", "cow", "cow"])).toEqual(["cows", "pig"]);

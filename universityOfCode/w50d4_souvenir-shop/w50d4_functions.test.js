@@ -1,5 +1,5 @@
 /* *****************functions.test.js*************************** */
-const maxItems = require("./functions");
+const maxItems = require("./w50d4_functions");
 
 test("test 1", () => {
   expect(maxItems(["$1", "$1", "$2"], "$3")).toBe(2);

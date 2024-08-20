@@ -1,5 +1,5 @@
 /* *********************functions.test.js***************** */
-const maxTotal = require("./functions");
+const maxTotal = require("./w51d1_functions");
 
 test("test 1", () => {
   expect(maxTotal([1, 1, 0, 1, 3, 10, 10, 10, 10, 1])).toBe(43);

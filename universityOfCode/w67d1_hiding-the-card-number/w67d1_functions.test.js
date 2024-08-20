@@ -1,5 +1,5 @@
 /* **************functions.test.js*************** */
-const cardHide = require("./functions");
+const cardHide = require("./w67d1_functions");
 
 test("test 1", () => {
   expect(cardHide("1234123456785678")).toBe("************5678");

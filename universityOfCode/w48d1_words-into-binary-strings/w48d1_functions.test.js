@@ -1,5 +1,5 @@
 /* *************************functions.test.js***************************** */
-const convertBinary = require("./functions");
+const convertBinary = require("./w48d1_functions");
 
 test("Test 1", () => {
   expect(convertBinary("house")).toBe("01110");

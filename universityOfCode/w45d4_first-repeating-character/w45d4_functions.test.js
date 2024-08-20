@@ -1,5 +1,5 @@
 /* *****************functions.test.js************** */
-const firstRepeat = require("./functions");
+const firstRepeat = require("./w45d4_functions");
 
 test("Test 1", () => {
   expect(firstRepeat("legolas")).toBe("l");

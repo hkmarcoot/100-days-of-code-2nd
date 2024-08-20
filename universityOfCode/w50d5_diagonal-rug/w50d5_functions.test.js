@@ -1,5 +1,5 @@
 /* ********************functions.test.js*********************** */
-const generateRug = require("./functions");
+const generateRug = require("./w50d5_functions");
 
 test("test 1", () => {
   expect(generateRug(4, "left")).toEqual([

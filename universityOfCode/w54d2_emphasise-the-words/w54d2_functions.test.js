@@ -1,5 +1,5 @@
 /* ******************functions.test.js*********************** */
-const emphasise = require("./functions");
+const emphasise = require("./w54d2_functions");
 
 test("test 1", () => {
   expect(emphasise("hello world")).toBe("Hello World");

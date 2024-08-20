@@ -1,5 +1,5 @@
 /* ****************functions.test.js******************** */
-const makeTitle = require("./functions");
+const makeTitle = require("./w53d3_functions");
 
 test("test 1", () => {
   expect(makeTitle("I am a title")).toBe("I Am A Title");

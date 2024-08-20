@@ -1,5 +1,5 @@
 /* ****************functions.test.js****************** */
-const indexShuffle = require("./functions");
+const indexShuffle = require("./w68d1_functions");
 
 test("test 1", () => {
   expect(indexShuffle("abcdef")).toBe("acebdf");

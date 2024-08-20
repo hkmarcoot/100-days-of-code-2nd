@@ -1,5 +1,5 @@
 /* **************functions.test.js***************** */
-const evenOddTransform = require("./functions");
+const evenOddTransform = require("./w55d2_functions");
 
 test("test 1", () => {
   expect(evenOddTransform([3, 4, 9], 3)).toEqual([9, -2, 15]);

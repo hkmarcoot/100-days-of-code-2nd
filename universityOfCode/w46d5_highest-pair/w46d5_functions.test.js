@@ -1,5 +1,5 @@
 /* *********************functions.test.js*********************** */
-const highestPair = require("./functions");
+const highestPair = require("./w46d5_functions");
 
 test("Test 1", () => {
   expect(highestPair(["A", "A", "K", "K", "3"])).toEqual([true, "A"]);

@@ -1,5 +1,5 @@
 /* **************functions.test.js***************** */
-const sliceSum = require("./functions");
+const sliceSum = require("./w60d1_functions");
 
 test("test 1", () => {
   expect(sliceSum([1, 3, 2], 2)).toBe(4);

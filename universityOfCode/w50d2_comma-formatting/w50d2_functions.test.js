@@ -1,5 +1,5 @@
 /* ******************functions.test.js********************* */
-const formatNum = require("./functions");
+const formatNum = require("./w50d2_functions");
 
 test("test 1", () => {
   expect(formatNum(1000)).toBe("1,000");

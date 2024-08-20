@@ -1,5 +1,5 @@
 /* *************functions.test.js**************** */
-const getNumberOfApples = require("./functions");
+const getNumberOfApples = require("./w65d2_functions");
 
 test("test 1", () => {
   expect(getNumberOfApples(10, "90%")).toBe(1);

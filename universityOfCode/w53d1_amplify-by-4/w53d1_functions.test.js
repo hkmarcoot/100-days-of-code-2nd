@@ -1,5 +1,5 @@
 /* ***********functions.test.js***************** */
-const amplify = require("./functions");
+const amplify = require("./w53d1_functions");
 
 test("test 1", () => {
   expect(amplify(1)).toEqual([1]);

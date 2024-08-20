@@ -1,5 +1,5 @@
 /* *******************functions.test.js*********************** */
-const depth = require("./functions");
+const depth = require("./w49d4_functions");
 
 test("test 1", () => {
   expect(depth([1, 2, 3, 4])).toBe(1);

@@ -1,4 +1,4 @@
-const threeLetterCollection = require("./functions");
+const threeLetterCollection = require("./w64d4_functions");
 
 test("test 1", () => {
   expect(threeLetterCollection("slap")).toEqual(["lap", "sla"]);

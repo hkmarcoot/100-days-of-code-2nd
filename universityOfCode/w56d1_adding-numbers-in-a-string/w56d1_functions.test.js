@@ -1,5 +1,5 @@
 /* *****************functions.test.js****************** */
-const addNums = require("./functions");
+const addNums = require("./w56d1_functions");
 
 test("test 1", () => {
   expect(addNums("2, 5, 1, 8, 4")).toBe(20);

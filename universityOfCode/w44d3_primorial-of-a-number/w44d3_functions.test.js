@@ -1,5 +1,5 @@
 /* ************************functions.test.js*************************** */
-const primorial = require("./functions");
+const primorial = require("./w44d3_functions");
 
 test("1 primorial equal 2", () => {
   expect(primorial(1)).toBe(2);

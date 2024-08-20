@@ -1,5 +1,5 @@
 /* ***************functions.test.js******************* */
-const commonElements = require("./functions");
+const commonElements = require("./w51d3_functions");
 
 test("test 1", () => {
   expect(commonElements([-1, 3, 4, 6, 7, 9], [1, 3])).toEqual([3]);

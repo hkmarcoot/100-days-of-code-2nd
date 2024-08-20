@@ -1,5 +1,5 @@
 /* *****************functions.test.js******************* */
-const chunk = require("./functions");
+const chunk = require("./w67d3_functions");
 
 test("test 1", () => {
   expect(chunk([1, 2, 3, 4], 2)).toEqual([

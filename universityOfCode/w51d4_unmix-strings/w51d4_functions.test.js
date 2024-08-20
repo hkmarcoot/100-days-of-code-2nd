@@ -1,5 +1,5 @@
 /* ******************functions.test.js*********************** */
-const unmix = require("./functions");
+const unmix = require("./w51d4_functions");
 
 test("test 1", () => {
   expect(unmix("123456")).toBe("214365");

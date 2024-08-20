@@ -1,4 +1,4 @@
-const generateHashtag = require("./functions");
+const generateHashtag = require("./w63d5_functions");
 
 test("test 1", () => {
   expect(generateHashtag("")).toBe(false);

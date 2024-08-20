@@ -1,5 +1,5 @@
 /* ******************functions.test.js********************* */
-const chatroomStatus = require("./functions");
+const chatroomStatus = require("./w52d1_functions");
 
 test("test 1", () => {
   expect(chatroomStatus([])).toBe("no one online");

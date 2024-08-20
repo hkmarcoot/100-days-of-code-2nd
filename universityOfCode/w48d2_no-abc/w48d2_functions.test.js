@@ -1,5 +1,5 @@
 /* *************************functions.test.js************************* */
-const removeABC = require("./functions");
+const removeABC = require("./w48d2_functions");
 
 test("Test 1", () => {
   expect(removeABC("This might be a bit hard")).toBe("This might e  it hrd");

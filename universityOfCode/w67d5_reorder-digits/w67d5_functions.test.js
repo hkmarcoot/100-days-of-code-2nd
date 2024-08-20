@@ -1,4 +1,4 @@
-const reorderDigits = require("./functions");
+const reorderDigits = require("./w67d5_functions");
 
 test("test 1", () => {
   expect(reorderDigits([515, 341, 98, 44, 211], "asc")).toEqual([

@@ -1,5 +1,5 @@
 /* ************functions.test.js************** */
-const century = require("./functions");
+const century = require("./w66d2_functions");
 
 test("test 1", () => {
   expect(century(1756)).toBe("18th century");

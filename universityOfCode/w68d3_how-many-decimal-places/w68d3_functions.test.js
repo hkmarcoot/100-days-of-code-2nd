@@ -1,5 +1,5 @@
 /* **************functions.test.js*************** */
-const getDecimalPlaces = require("./functions");
+const getDecimalPlaces = require("./w68d3_functions");
 
 test("test 1", () => {
   expect(getDecimalPlaces("3.22")).toBe(2);

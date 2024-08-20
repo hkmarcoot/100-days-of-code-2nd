@@ -1,5 +1,5 @@
 /* *************functions.test.js************** */
-const leftDigit = require("./functions");
+const leftDigit = require("./w62d1_functions");
 
 test("test 1", () => {
   expect(leftDigit("TrAdE2W1n95!")).toBe(2);

@@ -1,5 +1,5 @@
 /* **********************functions.test.js************************* */
-const isOmnipresent = require("./functions");
+const isOmnipresent = require("./w54d1_functions");
 
 test("test 1", () => {
   expect(

@@ -1,5 +1,5 @@
 /* ************functions.test.js*************** */
-const isAnagram = require("./functions");
+const isAnagram = require("./w65d3_functions");
 
 test("test 1", () => {
   expect(isAnagram("cristian", "Cristina")).toBe(true);

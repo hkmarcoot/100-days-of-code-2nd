@@ -1,5 +1,5 @@
 /* *********************functions.test.js************************ */
-const isSymmetrical = require("./functions");
+const isSymmetrical = require("./w47d1_functions");
 
 test("Test 1", () => {
   expect(isSymmetrical(23)).toBe(false);

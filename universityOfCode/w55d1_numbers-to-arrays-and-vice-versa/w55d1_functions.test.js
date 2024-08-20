@@ -1,5 +1,5 @@
 /* ****************functions.test.js******************* */
-const { toArray, toNumber } = require("./functions");
+const { toArray, toNumber } = require("./w55d1_functions");
 
 test("test 1", () => {
   expect(toArray(235)).toEqual([2, 3, 5]);

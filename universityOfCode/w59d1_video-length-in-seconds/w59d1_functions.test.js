@@ -1,5 +1,5 @@
 /* ***************functions.test.js******************* */
-const minutesToSeconds = require("./functions");
+const minutesToSeconds = require("./w59d1_functions");
 
 test("test 1", () => {
   expect(minutesToSeconds("01:00")).toBe(60);

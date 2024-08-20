@@ -1,5 +1,5 @@
 /* ****************functions.test.js****************** */
-const countLoneOnes = require("./functions");
+const countLoneOnes = require("./w52d3_functions");
 
 test("test 1", () => {
   expect(countLoneOnes(101)).toBe(2);

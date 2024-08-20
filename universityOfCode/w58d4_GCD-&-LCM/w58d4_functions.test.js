@@ -1,5 +1,5 @@
 /* ************functions.test.js*************** */
-const lcm = require("./functions");
+const lcm = require("./w58d4_functions");
 
 test("test 1", () => {
   expect(lcm(6, 10)).toBe(30);

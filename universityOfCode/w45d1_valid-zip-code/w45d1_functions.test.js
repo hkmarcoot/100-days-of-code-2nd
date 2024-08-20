@@ -1,5 +1,5 @@
 /* ****************functions.test.js******************** */
-const isValid = require("./functions");
+const isValid = require("./w45d1_functions");
 
 test("test 1", () => {
   expect(isValid("59001")).toBe(true);

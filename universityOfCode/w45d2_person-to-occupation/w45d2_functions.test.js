@@ -1,5 +1,5 @@
 /* *****************functions.test.js********************* */
-const assignPersonToJob = require("./functions");
+const assignPersonToJob = require("./w45d2_functions");
 
 names1 = ["Annie", "Steven", "Lisa", "Osman"];
 

@@ -1,5 +1,5 @@
 /* ****************functions.test.js****************** */
-const timeSaved = require("./functions");
+const timeSaved = require("./w60d2_functions");
 
 test("test 1", () => {
   expect(timeSaved(80, 90, 40)).toBe(3.3);

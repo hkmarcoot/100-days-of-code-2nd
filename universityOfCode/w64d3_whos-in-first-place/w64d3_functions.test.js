@@ -1,5 +1,5 @@
 /* ***********functions.test.js************* */
-const firstPlace = require("./functions");
+const firstPlace = require("./w64d3_functions");
 
 test("test 1", () => {
   expect(firstPlace("====b===O===e===U=A==")).toBe("A");

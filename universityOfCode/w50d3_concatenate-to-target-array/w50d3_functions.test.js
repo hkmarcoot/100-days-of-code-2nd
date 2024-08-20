@@ -1,5 +1,5 @@
 /* ***********************functions.test.js************************* */
-const canConcatenate = require("./functions");
+const canConcatenate = require("./w50d3_functions");
 
 test("test 1", () => {
   expect(

@@ -1,5 +1,5 @@
 /* **********************functions.test.js*********************** */
-const majorityVote = require("./functions");
+const majorityVote = require("./w53d4_functions");
 
 test("test 1", () => {
   expect(majorityVote(["A", "B", "B", "B", "A", "A"])).toBe(null);

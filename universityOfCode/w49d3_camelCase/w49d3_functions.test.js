@@ -1,5 +1,5 @@
 /* ********************functions.test.js********************** */
-const camelCasing = require("./functions");
+const camelCasing = require("./w49d3_functions");
 
 test("test 1", () => {
   expect(camelCasing("Hello World")).toBe("helloWorld");

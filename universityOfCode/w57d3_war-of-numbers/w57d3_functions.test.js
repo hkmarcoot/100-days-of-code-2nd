@@ -1,5 +1,5 @@
 /* ***************functions.test.js******************* */
-const warOfNumbers = require("./functions");
+const warOfNumbers = require("./w57d3_functions");
 
 test("test 1", () => {
   expect(warOfNumbers([5, 9, 45, 6, 2, 7, 34, 8, 6, 90, 5, 243])).toBe(168);

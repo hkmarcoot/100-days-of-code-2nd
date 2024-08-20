@@ -1,5 +1,5 @@
 /* ********************functions.test.js********************* */
-const hashPlusCount = require("./functions");
+const hashPlusCount = require("./w49d1_functions");
 
 test("Test 1", () => {
   expect(hashPlusCount("####")).toEqual([4, 0]);

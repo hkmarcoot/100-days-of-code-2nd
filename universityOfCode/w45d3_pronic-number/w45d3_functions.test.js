@@ -1,5 +1,5 @@
 /* ********************functions.test.js********************** */
-const isHeteromecic = require("./functions");
+const isHeteromecic = require("./w45d3_functions");
 
 var input = [
   0, 2, 7, 110, 136, 156, 182, 218, 250, 272, 306, 362, 380, 422, 462, 600,

@@ -1,5 +1,5 @@
 /* *************************functions.test.js******************************* */
-const chunkify = require("./functions");
+const chunkify = require("./w47d4_functions");
 
 test("Test 1", () => {
   expect(chunkify([2, 3, 4, 5], 2)).toEqual([

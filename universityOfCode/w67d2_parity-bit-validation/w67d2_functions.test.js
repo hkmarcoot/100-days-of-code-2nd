@@ -1,5 +1,5 @@
 /* ************functions.test.js************* */
-const validateBinary = require("./functions");
+const validateBinary = require("./w67d2_functions");
 
 const inData = [
   "00101101",

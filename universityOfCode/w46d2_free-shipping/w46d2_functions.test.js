@@ -1,5 +1,5 @@
 /* ***************************functions.test.js***************************** */
-const freeShipping = require("./functions");
+const freeShipping = require("./w46d2_functions");
 
 obj1 = { Shampoo: 5.99, "Rubber Ducks": 15.99 };
 obj2 = { "Flatscreen TV": 399.99 };

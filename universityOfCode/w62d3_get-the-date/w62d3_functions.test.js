@@ -1,5 +1,5 @@
 /* *************functions.test.js*************** */
-const getDay = require("./functions");
+const getDay = require("./w62d3_functions");
 
 test("test 1", () => {
   expect(getDay("12/07/2016")).toBe("Wednesday");

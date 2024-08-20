@@ -1,5 +1,5 @@
 /* ****************functions.test.js******************* */
-const countOnes = require("./functions");
+const countOnes = require("./w62d2_functions");
 
 test("test 1", () => {
   expect(

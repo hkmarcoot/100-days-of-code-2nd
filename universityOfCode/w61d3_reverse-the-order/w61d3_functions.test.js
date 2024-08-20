@@ -1,5 +1,5 @@
 /* ***************functions.test.js**************** */
-const reverse = require("./functions");
+const reverse = require("./w61d3_functions");
 
 test("test 1", () => {
   expect(reverse("Reverse")).toBe("esreveR");

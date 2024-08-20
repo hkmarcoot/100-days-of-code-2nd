@@ -1,5 +1,5 @@
 /* **************functions.test.js**************** */
-const set = require("./functions");
+const set = require("./w65d1_functions");
 
 test("test 1", () => {
   expect(set([1, 3, 3, 5, 5])).toEqual([1, 3, 5]);

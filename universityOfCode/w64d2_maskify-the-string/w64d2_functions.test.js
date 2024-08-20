@@ -1,5 +1,5 @@
 /* *************functions.test.js**************** */
-const maskify = require("./functions");
+const maskify = require("./w64d2_functions");
 
 test("test 1", () => {
   expect(maskify("4556364607935616")).toBe("############5616");

@@ -1,5 +1,5 @@
 /* *************functions.test.js****************** */
-const daysUntil2021 = require("./functions");
+const daysUntil2021 = require("./w55d4_functions");
 
 test("test 1", () => {
   expect(daysUntil2021("12/29/2020")).toBe("3 days");

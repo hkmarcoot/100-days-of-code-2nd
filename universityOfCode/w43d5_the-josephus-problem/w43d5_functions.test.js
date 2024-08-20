@@ -1,5 +1,5 @@
 /* ********************functions.test.js*************** */
-const josephus = require("./functions");
+const josephus = require("./w43d5_functions");
 
 test("n = 41, i = 3, equal 31", () => {
   expect(josephus(41, 3)).toBe(31);

@@ -1,5 +1,5 @@
 /* **************functions.test.js***************** */
-const sumMissingNumbers = require("./functions");
+const sumMissingNumbers = require("./w61d4_functions");
 
 test("test 1", () => {
   expect(sumMissingNumbers([1, 3, 5, 7, 10])).toBe(29);

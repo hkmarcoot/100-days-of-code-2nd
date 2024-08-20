@@ -1,5 +1,5 @@
 /* ************functions.test.js*************** */
-const validatePIN = require("./functions");
+const validatePIN = require("./w63d3_functions");
 
 test("test 1", () => {
   expect(validatePIN("1234")).toBe(true);

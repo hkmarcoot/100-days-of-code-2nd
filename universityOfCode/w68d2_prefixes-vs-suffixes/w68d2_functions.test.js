@@ -1,4 +1,4 @@
-const { isPrefix, isSuffix } = require("./functions");
+const { isPrefix, isSuffix } = require("./w68d2_functions");
 
 test("test 1", () => {
   expect(isPrefix("automation", "auto-")).toBe(true);

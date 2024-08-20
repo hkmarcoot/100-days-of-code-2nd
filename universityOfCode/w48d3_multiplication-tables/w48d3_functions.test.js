@@ -1,5 +1,5 @@
 /* ***********************functions.test.js*************************** */
-const multTable = require("./functions");
+const multTable = require("./w48d3_functions");
 
 test("Test 1", () => {
   expect(multTable(1)).toEqual([[1]]);

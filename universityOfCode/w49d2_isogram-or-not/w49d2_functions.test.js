@@ -1,5 +1,5 @@
 /* ********************functions.test.js************************* */
-const isIsogram = require("./functions");
+const isIsogram = require("./w49d2_functions");
 
 test("test 1", () => {
   expect(isIsogram("Algorism")).toBe(true);

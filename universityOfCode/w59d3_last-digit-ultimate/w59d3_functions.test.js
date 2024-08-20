@@ -1,5 +1,5 @@
 /* *************functions.test.js**************** */
-const lastDig = require("./functions");
+const lastDig = require("./w59d3_functions");
 
 test("test 1", () => {
   expect(lastDig(1, 1, 1)).toBe(true);

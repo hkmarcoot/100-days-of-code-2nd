@@ -1,5 +1,5 @@
 /* ****************functions.test.js****************** */
-const rectangles = require("./functions");
+const rectangles = require("./w56d2_functions");
 
 test("test 1", () => {
   expect(rectangles(1)).toBe(1);

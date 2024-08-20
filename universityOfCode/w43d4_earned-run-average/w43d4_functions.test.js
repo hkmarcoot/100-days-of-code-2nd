@@ -1,5 +1,5 @@
 /* *******************functions.test.js******************** */
-const era = require("./functions");
+const era = require("./w43d4_functions");
 
 test("22 er and 99 ip equal 2.00", () => {
   expect(era(22, 99)).toBe(2.0);

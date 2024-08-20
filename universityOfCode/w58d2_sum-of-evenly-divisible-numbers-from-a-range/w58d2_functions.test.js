@@ -1,5 +1,5 @@
 /* ****************functions.test.js******************* */
-const evenlyDivisible = require("./functions");
+const evenlyDivisible = require("./w58d2_functions");
 
 test("test 1", () => {
   expect(evenlyDivisible(1, 10, 2)).toBe(30);
