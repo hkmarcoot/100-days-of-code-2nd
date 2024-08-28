@@ -1,5 +1,5 @@
 /* ***************functions.test.js*********** */
-const findZip = require("./functions");
+const findZip = require("./w70d3_functions");
 
 test("test 1", () => {
   expect(findZip("all zip files are zipped")).toBe(18);
