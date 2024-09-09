@@ -1,5 +1,5 @@
 /* ***************functions.test.js**************** */
-const unrepeated = require("./w71d3_functions");
+const unrepeated = require("./w71d5_functions");
 
 test("test 1", () => {
   expect(unrepeated("hello")).toBe("helo");
