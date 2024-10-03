@@ -1,4 +1,5 @@
 /* ***************functions.js**************** */
+/* Same with w3d3 */
 function secondBest(arr) {
   var sortedArr = arr.sort((a, b) => b - a);
   return sortedArr[1];

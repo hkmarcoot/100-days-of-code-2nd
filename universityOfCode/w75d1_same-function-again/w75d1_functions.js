@@ -1,4 +1,5 @@
 /* ***************functions.js***************** */
+/* Same with w3d1 */
 function same(str) {
   return function () {
     return str;

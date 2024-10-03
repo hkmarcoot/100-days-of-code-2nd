@@ -1,4 +1,5 @@
 /* *****************functions.js******************** */
+/* Same with w3d2 */
 function digits2(int) {
   return Math.max(Math.floor(Math.log10(Math.abs(int))), 0) + 1;
 }
