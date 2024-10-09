@@ -1,0 +1,30 @@
+.breadcrumb li {
+  display: inline;
+}
+
+.breadcrumb li.location + li.location::before {
+  color: orange;
+  content: ">";
+}
+
+.breadcrumb a {
+  text-decoration: none;
+}
+
+.breadcrumb .location a:hover {
+  background-color: pink;
+}
+
+.attribute a {
+  color: blue;
+}
+
+.attribute a::after {
+  content: " x";
+  font-size: 8px;
+  vertical-align: super;
+}
+
+.attribute a:hover {
+  background-color: yellow;
+}
