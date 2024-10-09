@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: monospace;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: Azure;
+}
+
+h2 {
+  margin-top: 15px;
+}
+
+th {
+  border: 2px solid #8c6b48;
+  padding: 5px 10px;
+}
+
+table {
+  text-align: center;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+td {
+  border: 2px solid #8c6b48;
+}
+
+.left,
+.middle {
+  padding: 5px 10px;
+}
+
+.right {
+  text-align: left;
+  padding: 5px 10px;
+}
