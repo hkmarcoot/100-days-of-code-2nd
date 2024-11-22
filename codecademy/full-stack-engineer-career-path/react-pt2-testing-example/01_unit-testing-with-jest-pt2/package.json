@@ -1,0 +1,11 @@
+{
+  "name": "audit2022-unit-testing-with-jest-unit-test-part-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "react-scripts test"
+  }
+}
