@@ -1,0 +1,11 @@
+{
+  "name": "react-audit-sandbox-jest-test-in-le",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "react-scripts test"
+  }
+}
