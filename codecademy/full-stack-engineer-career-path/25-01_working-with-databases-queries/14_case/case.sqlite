@@ -1,0 +1,7 @@
+SELECT name,
+ CASE
+  WHEN genre = 'romance' OR genre = 'comedy' 
+   THEN 'Chill'
+  ELSE 'Intense'
+ END AS 'Mood'
+FROM movies;
