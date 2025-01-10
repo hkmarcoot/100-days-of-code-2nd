@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="css/tacit-css.min.css" />
+    <link rel="stylesheet" href="/css/styles.css" />
+    <title>The Vulnerable Movie Center</title>
+    <script>
+      function search() {
+        const searchResult = document.getElementById("search-result");
+        const searchTerm = document.getElementById("search-term");
+        const keyword = document.getElementById("keyword");
+
+        const bookData = document.getElementById("book-data");
+        const comments = document.getElementById("comments");
+
+        bookData.style.visibility = "hidden";
+        comments.style.visibility = "hidden";
+
+        searchResult.style.display = "block";
+
+        searchTerm.innerHTML = keyword.value;
+
+        //fetching results related to the keyword value from the server
+
+        return false;
+      }
+
+      // Vulnerable code to write Document URI
+      // document.write("<b>Current URL:</b><span id="contentholder"></span>" + document.baseURI);
+      // Use an alternative document method below:
+      document.getElementById("contentholder").textContent = document.baseURI;
+    </script>
+  </head>
+  <body>
+    <section>
+      <!-- Add new "Current URL" content below -->
+      <h1 style="margin-top: 5px">The Vulnerable Book Catalog</h1>
+      <hr class="thin" />
+      <form id="search-form" onsubmit="return search()">
+        <input
+          id="keyword"
+          type="text"
+          class="thin"
+          placeholder="Search a book"
+        /><button type="submit" class="thin">Go</button>
+      </form>
+      <hr />
+    </section>
+
+    <section id="search-result">
+      You searched for <span id="search-term"></span>
+      <p>Waiting for server's response...</p>
+    </section>
+
+    <section id="book-data">
+      <img id="cover" src="images/LOTR.jpeg" />
+      <div id="book-details">
+        <b>Title:</b> Lord Of The Rings<br />
+        <b>Year:</b> 1954<br />
+        <b>Author by:</b> J.R.R Tolkein<br />
+        <br />
+        <b>Plot:</b>
+        <p>
+          Sauron, the Dark Lord, has awakened and threatens to conquer
+          Middle-earth. To stop this ancient evil once and for all, Frodo
+          Baggins must destroy the One Ring in the fires of Mount Doom.
+        </p>
+        <button type="submit">Read</button>
+      </div>
+    </section>
+
+    <section id="comments">
+      <form>
+        <fieldset>
+          <textarea
+            name="newReview"
+            cols="80"
+            rows="5"
+            placeholder="Add your review"
+          ></textarea>
+          <button type="submit">Submit</button>
+        </fieldset>
+      </form>
+      <hr />
+      <h2>Comments</h2>
+      <dl>$reviews$</dl>
+    </section>
+  </body>
+</html>
