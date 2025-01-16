@@ -1,0 +1,7 @@
+You have finished learning about some of the key foundations of an operating system: the processes and threads that all of the other code on the system rests upon.
+
+A process is an abstraction within the operating system that represents the program while it is in execution. These processes exist in five states that are leveraged to allow the CPU cores to alternate between ready and blocked processes to best take advantage of limited computing resources.
+
+A thread represents the actual sequence of processor instructions that are actively being executed. Each process contains at least one thread and can contain many such structures that all share resources among each other to allow for faster communication and context switching between them. This all allows them to be “lighter” and require fewer system resources. With the hardware advancement of multithreading, individual cores can also execute multiple threads at once, further improving system utilization and responsiveness by more efficiently splitting up tasks.
+
+Threads behave differently depending on the environment they were created in. Kernel threads are constructed through system calls to the kernel while user threads are constructed using local function calls. User threads, therefore, allow for more fine-grained control by developers that can be more efficient than their kernel counterparts. However, these user threads have to be mapped to their kernel counterparts in order to be actually executed.
