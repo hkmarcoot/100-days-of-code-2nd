@@ -9,3 +9,15 @@ What is an interrupt handler?
 - Keeps track of the interrupts in a queue
 - Acknowledges to the IO device that the interrupt has been received
 - Prioritizes the interrupts such that the processor responds to the most important or time-sensitive interrupts first.
+
+What is an interrupt?
+
+- An interrupt is a signal sent from a hardware IO device to our computer in order to get its attention immediately. When an interrupt is sent by an IO device, the processor is notified and its currently executing task — should there be one — is immediately halted. These processes cannot continue their execution until and unless our computer responds to the interrupt.
+
+What is the difference between blocking and non-blocking IO requests?
+
+- The fundamental distinction between blocking and non-blocking IO requests is what happens to our currently running processes when such a request is made. When a blocking IO request is made, a process cannot continue executing until the information from the IO is parsed and received by the process. A non-blocking IO request has the opposite behavior; an application can continue executing even as a non-blocking IO request is made.
+
+What is the difference between device drivers and controllers?
+
+- Device drivers are software programs that enable our OS to operate hardware devices like keyboards and monitors. Driver software might contain a list of commands a computer can send to a device and the types of information it can expect to receive back. A device controller, on the other hand, is hardware. It provides an interface between the device driver and the device itself. The device controller will take in commands from our computer — and translate them into electrical signals the hardware device can understand. We need this because our hardware devices generally do not understand the language our computer speaks. We need an intermediary to translate between the two.
