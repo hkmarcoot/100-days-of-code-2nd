@@ -29,6 +29,11 @@ class TreeNode {
         }
       }
     });
+    // this.children = this.children.filter(child => {
+    //   return childToRemove instanceof TreeNode
+    // ? child !== childToRemove
+    // : child.data !== childToRemove;
+    // });
     if (length === this.children.length) {
       this.children.forEach((child) => child.removeChild(childToRemove));
     }
