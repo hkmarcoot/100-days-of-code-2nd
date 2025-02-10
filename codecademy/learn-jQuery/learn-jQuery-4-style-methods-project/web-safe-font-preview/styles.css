@@ -33,7 +33,7 @@ header {
 }
 
 .preview {
-  align: center;
+  /* align: center; */
   background: white;
   font-family: Helvetica;
   font-size: 12px;
@@ -88,5 +88,5 @@ input {
   margin-left: 4px;
 }
 
-#weight {
-}
+/* #weight {
+} */
