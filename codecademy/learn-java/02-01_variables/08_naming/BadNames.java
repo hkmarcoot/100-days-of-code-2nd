@@ -7,5 +7,10 @@ public class BadNames {
         int yearOfBirth = 1955;
         
         System.out.println("The program runs!");
+        System.out.println(firstName);
+        System.out.println(lastName);
+        System.out.println(email);
+        System.out.println(salaryExpectation);
+        System.out.println(yearOfBirth);
 	}
 }
